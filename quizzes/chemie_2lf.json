@@ -35,11 +35,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 2 3 4 .....",
+                    "text": "1, 2, 3, 4, .....",
                     "isCorrect": true
                 },
                 {
-                    "text": "+l 0 –l",
+                    "text": "+l, 0, –l",
                     "isCorrect": false
                 },
                 {
@@ -50,11 +50,11 @@
         },
         {
             "id": "q3",
-            "text": "Jestliže hlavní kvantové číslo n = 2 pak vedlejší kvantové číslo l nabývá hodnot:",
+            "text": "Jestliže hlavní kvantové číslo n = 2, pak vedlejší kvantové číslo l nabývá hodnot:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "–2 –1 0 1 2",
+                    "text": "–2, –1, 0, 1, 2",
                     "isCorrect": false
                 },
                 {
@@ -66,22 +66,22 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 a 2",
+                    "text": "0, 1 a 2",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q4",
-            "text": "Jestliže hlavní kvantové číslo n = 3 pak vedlejší kvantové číslo l nabývá hodnot:",
+            "text": "Jestliže hlavní kvantové číslo n = 3, pak vedlejší kvantové číslo l nabývá hodnot:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 1 2 a 3",
+                    "text": "0, 1, 2 a 3",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 2 a 3",
+                    "text": "1, 2 a 3",
                     "isCorrect": false
                 },
                 {
@@ -89,14 +89,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 a 2",
+                    "text": "0, 1 a 2",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q5",
-            "text": "Jestliže hlavní kvantové číslo n = 1 pak vedlejší kvantové číslo l má hodnotu:",
+            "text": "Jestliže hlavní kvantové číslo n = 1, pak vedlejší kvantové číslo l má hodnotu:",
             "isMulti": true,
             "options": [
                 {
@@ -142,7 +142,7 @@
         },
         {
             "id": "q7",
-            "text": "Je-li vedlejší kvantové číslo l = 0 mluvíme o orbitalu:",
+            "text": "Je-li vedlejší kvantové číslo l = 0, mluvíme o orbitalu:",
             "isMulti": true,
             "options": [
                 {
@@ -165,7 +165,7 @@
         },
         {
             "id": "q8",
-            "text": "Je-li vedlejší kvantové číslo l = 1 orbital označujeme:",
+            "text": "Je-li vedlejší kvantové číslo l = 1, orbital označujeme:",
             "isMulti": true,
             "options": [
                 {
@@ -188,7 +188,7 @@
         },
         {
             "id": "q9",
-            "text": "Je-li vedlejší kvantové číslo l = 2 mluvíme o orbitalu:",
+            "text": "Je-li vedlejší kvantové číslo l = 2, mluvíme o orbitalu:",
             "isMulti": true,
             "options": [
                 {
@@ -211,7 +211,7 @@
         },
         {
             "id": "q10",
-            "text": "Je-li vedlejší kvantové číslo l = 3 mluvíme o orbitalu:",
+            "text": "Je-li vedlejší kvantové číslo l = 3, mluvíme o orbitalu:",
             "isMulti": true,
             "options": [
                 {
@@ -261,7 +261,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 2 3 4 …",
+                    "text": "1, 2, 3, 4,…",
                     "isCorrect": false
                 },
                 {
@@ -273,7 +273,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "–l 0 +l",
+                    "text": "–l, 0, +l",
                     "isCorrect": true
                 }
             ]
@@ -284,7 +284,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "–2 –1 0 1 2",
+                    "text": "–2, –1, 0, 1, 2",
                     "isCorrect": true
                 },
                 {
@@ -292,11 +292,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "pouze 0 1 2",
+                    "text": "pouze 0, 1, 2",
                     "isCorrect": false
                 },
                 {
-                    "text": "pouze –1 0 1",
+                    "text": "pouze –1, 0, 1",
                     "isCorrect": false
                 }
             ]
@@ -307,7 +307,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "–2 –1 0 1 2",
+                    "text": "–2, –1, 0, 1, 2",
                     "isCorrect": false
                 },
                 {
@@ -319,7 +319,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "–1 0 +1",
+                    "text": "–1, 0, +1",
                     "isCorrect": true
                 }
             ]
@@ -602,7 +602,7 @@
         },
         {
             "id": "q27",
-            "text": "Atomový útvar tvořený dvanácti protony deseti elektrony a dvanácti neutrony je:",
+            "text": "Atomový útvar tvořený dvanácti protony, deseti elektrony a dvanácti neutrony je:",
             "isMulti": true,
             "options": [
                 {
@@ -625,7 +625,7 @@
         },
         {
             "id": "q28",
-            "text": "Atomový útvar tvořený čtyřmi protony dvěma elektrony a pěti neutrony je:",
+            "text": "Atomový útvar tvořený čtyřmi protony, dvěma elektrony a pěti neutrony je:",
             "isMulti": true,
             "options": [
                 {
@@ -648,7 +648,7 @@
         },
         {
             "id": "q29",
-            "text": "Atomový útvar tvořený pěti protony dvěma elektrony a šesti neut- rony je:",
+            "text": "Atomový útvar tvořený pěti protony, dvěma elektrony a šesti neut- rony je:",
             "isMulti": true,
             "options": [
                 {
@@ -671,7 +671,7 @@
         },
         {
             "id": "q30",
-            "text": "Atomový útvar tvořený devíti protony deseti elektrony a deseti neutrony je:",
+            "text": "Atomový útvar tvořený devíti protony, deseti elektrony a deseti neutrony je:",
             "isMulti": true,
             "options": [
                 {
@@ -694,7 +694,7 @@
         },
         {
             "id": "q31",
-            "text": "Atomový útvar tvořený osmi protony deseti elektrony a osmi neutrony je:",
+            "text": "Atomový útvar tvořený osmi protony, deseti elektrony a osmi neutrony je:",
             "isMulti": true,
             "options": [
                 {
@@ -717,7 +717,7 @@
         },
         {
             "id": "q32",
-            "text": "Atomový útvar tvořený šestnácti protony osmnácti elektrony a šestnácti neutrony je:",
+            "text": "Atomový útvar tvořený šestnácti protony, osmnácti elektrony a šestnácti neutrony je:",
             "isMulti": true,
             "options": [
                 {
@@ -763,7 +763,7 @@
         },
         {
             "id": "q34",
-            "text": "Izotopy téhož prvku jsou nuklidy které:",
+            "text": "Izotopy téhož prvku jsou nuklidy, které:",
             "isMulti": true,
             "options": [
                 {
@@ -786,7 +786,7 @@
         },
         {
             "id": "q35",
-            "text": "Reakci při které ozařováním hliníku částicemi alfa vzniká radio- aktivní fosfor popisuje rovnice: 13 Al + 2 He → 15 P + ? 27 4 30 Na místo otazníku je třeba zapsat částici:",
+            "text": "Reakci, při které ozařováním hliníku částicemi alfa vzniká radio- aktivní fosfor, popisuje rovnice: 13 Al + 2 He → 15 P + ? 27 4 30 Na místo otazníku je třeba zapsat částici:",
             "isMulti": true,
             "options": [
                 {
@@ -809,7 +809,7 @@
         },
         {
             "id": "q36",
-            "text": "Reakci při které ozařováním dusíku částicemi alfa vzniká kyslík popisuje rovnice: 7N + 2He → 8O + ? 14 4 17 Na místo otazníku je třeba zapsat částici:",
+            "text": "Reakci, při které ozařováním dusíku částicemi alfa vzniká kyslík popisuje rovnice: 7N + 2He → 8O + ? 14 4 17 Na místo otazníku je třeba zapsat částici:",
             "isMulti": true,
             "options": [
                 {
@@ -855,7 +855,7 @@
         },
         {
             "id": "q38",
-            "text": "Jako alotropii označujeme jev kdy se prvek vyskytuje:",
+            "text": "Jako alotropii označujeme jev, kdy se prvek vyskytuje:",
             "isMulti": true,
             "options": [
                 {
@@ -867,7 +867,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "v několika strukturních modifikacích lišících se fyzikálními vlastnostmi",
+                    "text": "v několika strukturních modifikacích, lišících se fyzikálními vlastnostmi",
                     "isCorrect": true
                 },
                 {
@@ -901,7 +901,7 @@
         },
         {
             "id": "q40",
-            "text": "Pokud atom vyzáří částici alfa potom nově vzniklý prvek leží v periodické tabulce prvků:",
+            "text": "Pokud atom vyzáří částici alfa, potom nově vzniklý prvek leží v periodické tabulce prvků:",
             "isMulti": true,
             "options": [
                 {
@@ -970,7 +970,7 @@
         },
         {
             "id": "q43",
-            "text": "Pokud atom vyzáří částici beta minus potom je nově vzniklý prvek umístěn v periodické tabulce prvků:",
+            "text": "Pokud atom vyzáří částici beta minus, potom je nově vzniklý prvek umístěn v periodické tabulce prvků:",
             "isMulti": true,
             "options": [
                 {
@@ -993,7 +993,7 @@
         },
         {
             "id": "q44",
-            "text": "Pokud atom vyzáří částici beta plus potom nově vzniklý prvek leží v periodické tabulce prvků:",
+            "text": "Pokud atom vyzáří částici beta plus, potom nově vzniklý prvek leží v periodické tabulce prvků:",
             "isMulti": true,
             "options": [
                 {
@@ -1545,7 +1545,7 @@
         },
         {
             "id": "q68",
-            "text": "Prvky Ne Ar He a Kr patří mezi:",
+            "text": "Prvky Ne, Ar, He a Kr patří mezi:",
             "isMulti": true,
             "options": [
                 {
@@ -1963,7 +1963,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "Li Na a K mají větší hustotu než voda",
+                    "text": "Li, Na a K mají větší hustotu než voda",
                     "isCorrect": false
                 },
                 {
@@ -2078,19 +2078,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "2 IV. A",
+                    "text": "2, IV. A",
                     "isCorrect": true
                 },
                 {
-                    "text": "3 III. A",
+                    "text": "3, III. A",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 V. A",
+                    "text": "1, V. A",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 V. A",
+                    "text": "2, V. A",
                     "isCorrect": false
                 }
             ]
@@ -2101,42 +2101,42 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "2 III. A",
+                    "text": "2, III. A",
                     "isCorrect": false
                 },
                 {
-                    "text": "3 V. A",
+                    "text": "3, V. A",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 II. A",
+                    "text": "1, II. A",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 V. A",
+                    "text": "2, V. A",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q93",
-            "text": "Z uvedených skupin prvků vyberte takovou která obsahuje pouze přechodné prvky:",
+            "text": "Z uvedených skupin prvků vyberte takovou, která obsahuje pouze přechodné prvky:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "Cs I Sb",
+                    "text": "Cs, I, Sb",
                     "isCorrect": false
                 },
                 {
-                    "text": "Cr Pt Ti",
+                    "text": "Cr, Pt, Ti",
                     "isCorrect": true
                 },
                 {
-                    "text": "Cs Sr Pt",
+                    "text": "Cs, Sr, Pt",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ti Ga Cr",
+                    "text": "Ti, Ga, Cr",
                     "isCorrect": false
                 }
             ]
@@ -2745,19 +2745,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "Pb As Cu",
+                    "text": "Pb, As, Cu",
                     "isCorrect": false
                 },
                 {
-                    "text": "At Bi Sb",
+                    "text": "At, Bi, Sb",
                     "isCorrect": false
                 },
                 {
-                    "text": "Bi P N",
+                    "text": "Bi, P, N",
                     "isCorrect": true
                 },
                 {
-                    "text": "Br Na Sn",
+                    "text": "Br, Na, Sn",
                     "isCorrect": false
                 }
             ]
@@ -2768,19 +2768,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "C Si Sn",
+                    "text": "C, Si, Sn",
                     "isCorrect": true
                 },
                 {
-                    "text": "Bi P N",
+                    "text": "Bi, P, N",
                     "isCorrect": false
                 },
                 {
-                    "text": "At Bi Ni",
+                    "text": "At, Bi, Ni",
                     "isCorrect": false
                 },
                 {
-                    "text": "B Al Ga",
+                    "text": "B, Al, Ga",
                     "isCorrect": false
                 }
             ]
@@ -2814,19 +2814,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "Si Sn Pb",
+                    "text": "Si, Sn, Pb",
                     "isCorrect": false
                 },
                 {
-                    "text": "Se Te O",
+                    "text": "Se, Te, O",
                     "isCorrect": true
                 },
                 {
-                    "text": "Sn Tl S",
+                    "text": "Sn, Tl, S",
                     "isCorrect": false
                 },
                 {
-                    "text": "O S Tl",
+                    "text": "O, S, Tl",
                     "isCorrect": false
                 }
             ]
@@ -3228,19 +3228,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "různými molekulami složenými ze dvou nebo více různých atomů",
+                    "text": "různými molekulami, složenými ze dvou nebo více různých atomů",
                     "isCorrect": false
                 },
                 {
-                    "text": "různými molekulami složenými z atomů jednoho prvku",
+                    "text": "různými molekulami, složenými z atomů jednoho prvku",
                     "isCorrect": false
                 },
                 {
-                    "text": "stejnými molekulami složenými ze dvou nebo více různých atomů",
+                    "text": "stejnými molekulami, složenými ze dvou nebo více různých atomů",
                     "isCorrect": true
                 },
                 {
-                    "text": "stejnými molekulami složenými z atomů jednoho prvku",
+                    "text": "stejnými molekulami, složenými z atomů jednoho prvku",
                     "isCorrect": false
                 }
             ]
@@ -3454,7 +3454,7 @@
         },
         {
             "id": "q151",
-            "text": "Určete které z uvedených látek tvoří molekulové krystaly:",
+            "text": "Určete, které z uvedených látek tvoří molekulové krystaly:",
             "isMulti": true,
             "options": [
                 {
@@ -3523,7 +3523,7 @@
         },
         {
             "id": "q154",
-            "text": "Je-li hodnota elektronegativity chloru X(Cl) = 2 8 a hodnota elek- tronegativity vodíku X(H) = 2 2 vznikne sloučením těchto dvou prvků vazba:",
+            "text": "Je-li hodnota elektronegativity chloru X(Cl) = 2,8 a hodnota elek- tronegativity vodíku X(H) = 2,2 vznikne sloučením těchto dvou prvků vazba:",
             "isMulti": true,
             "options": [
                 {
@@ -3753,23 +3753,23 @@
         },
         {
             "id": "q164",
-            "text": "Nezmění-li se vnější podmínky je chemická rovnováha stav soustavy v němž:",
+            "text": "Nezmění-li se vnější podmínky, je chemická rovnováha stav soustavy, v němž:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "se nemění její složení i když v ní neustále probíhají chemické děje",
+                    "text": "se nemění její složení, i když v ní neustále probíhají chemické děje",
                     "isCorrect": true
                 },
                 {
-                    "text": "se mění její složení protože v ní neustále probíhají chemické děje",
+                    "text": "se mění její složení, protože v ní neustále probíhají chemické děje",
                     "isCorrect": false
                 },
                 {
-                    "text": "se nemění její složení protože v ní neprobíhají chemické děje",
+                    "text": "se nemění její složení, protože v ní neprobíhají chemické děje",
                     "isCorrect": false
                 },
                 {
-                    "text": "se mění její složení přestože v ní neprobíhají chemické děje",
+                    "text": "se mění její složení, přestože v ní neprobíhají chemické děje",
                     "isCorrect": false
                 }
             ]
@@ -3792,7 +3792,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "teploty tlaku a pH",
+                    "text": "teploty, tlaku a pH",
                     "isCorrect": false
                 }
             ]
@@ -3891,7 +3891,7 @@
         },
         {
             "id": "q170",
-            "text": "Čím je disociační konstanta komplexu při komplexotvorné reakci menší tím je daný komplex:",
+            "text": "Čím je disociační konstanta komplexu při komplexotvorné reakci menší, tím je daný komplex:",
             "isMulti": true,
             "options": [
                 {
@@ -4068,7 +4068,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "nemění se za všech podmínek je stejný",
+                    "text": "nemění se, za všech podmínek je stejný",
                     "isCorrect": false
                 }
             ]
@@ -4121,7 +4121,7 @@
         },
         {
             "id": "q180",
-            "text": "Rozhodněte který z následujících vztahů platí pro kyselé prostředí:",
+            "text": "Rozhodněte, který z následujících vztahů platí pro kyselé prostředí:",
             "isMulti": true,
             "options": [
                 {
@@ -4144,7 +4144,7 @@
         },
         {
             "id": "q181",
-            "text": "Rozhodněte který z následujících vztahů platí pro zásadité prostředí:",
+            "text": "Rozhodněte, který z následujících vztahů platí pro zásadité prostředí:",
             "isMulti": true,
             "options": [
                 {
@@ -4489,7 +4489,7 @@
         },
         {
             "id": "q196",
-            "text": "Podle Brönstedovy teorie je kyselinou látka která je:",
+            "text": "Podle Brönstedovy teorie je kyselinou látka, která je:",
             "isMulti": true,
             "options": [
                 {
@@ -4512,7 +4512,7 @@
         },
         {
             "id": "q197",
-            "text": "Podle Brönstedovy teorie je zásadou látka která je:",
+            "text": "Podle Brönstedovy teorie je zásadou látka, která je:",
             "isMulti": true,
             "options": [
                 {
@@ -4581,46 +4581,46 @@
         },
         {
             "id": "q200",
-            "text": "1 Anorganické sloučeniny Z uvedených skupin oxidů vyberte takovou která obsahuje 1 amfoterní 1 kyselinotvorný a 2 zásadotvorné oxidy:",
+            "text": "1 Anorganické sloučeniny Z uvedených skupin oxidů vyberte takovou, která obsahuje 1 amfoterní, 1 kyselinotvorný a 2 zásadotvorné oxidy:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "N2O Fe2O3 P2O5 Na2O",
+                    "text": "N2O, Fe2O3, P2O5, Na2O",
                     "isCorrect": false
                 },
                 {
-                    "text": "K2O N2O5 CaO ZnO",
+                    "text": "K2O, N2O5, CaO, ZnO",
                     "isCorrect": true
                 },
                 {
-                    "text": "SO2 PbO2 SiO2 NO",
+                    "text": "SO2, PbO2, SiO2, NO",
                     "isCorrect": false
                 },
                 {
-                    "text": "N2O3 Li2O SO3 CuO",
+                    "text": "N2O3, Li2O, SO3, CuO",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q201",
-            "text": "Z uvedených skupin oxidů vyberte takovou která obsahuje 1 amfoterní 1 kyselinotvorný a 1 zásadotvorný oxid:",
+            "text": "Z uvedených skupin oxidů vyberte takovou, která obsahuje 1 amfoterní, 1 kyselinotvorný a 1 zásadotvorný oxid:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "Cl2O7 CO2 MgO",
+                    "text": "Cl2O7, CO2, MgO",
                     "isCorrect": false
                 },
                 {
-                    "text": "CaO MgO Na2O",
+                    "text": "CaO, MgO, Na2O",
                     "isCorrect": false
                 },
                 {
-                    "text": "Al2O3 ZnO CaO",
+                    "text": "Al2O3, ZnO, CaO",
                     "isCorrect": false
                 },
                 {
-                    "text": "CO2 ZnO MgO",
+                    "text": "CO2, ZnO, MgO",
                     "isCorrect": true
                 }
             ]
@@ -5547,7 +5547,7 @@
         },
         {
             "id": "q242",
-            "text": "Jaký je vzorec sloučeniny obsahující ionty Fe3+a Cl– ?",
+            "text": "Jaký je vzorec sloučeniny, obsahující ionty Fe3+a Cl– ?",
             "isMulti": true,
             "options": [
                 {
@@ -5570,7 +5570,7 @@
         },
         {
             "id": "q243",
-            "text": "Jaký je vzorec sloučeniny obsahující ionty Cd2+a S2– ?",
+            "text": "Jaký je vzorec sloučeniny, obsahující ionty Cd2+a S2– ?",
             "isMulti": true,
             "options": [
                 {
@@ -6996,7 +6996,7 @@
         },
         {
             "id": "q305",
-            "text": "Mezi základní suroviny užívané při výrobě běžného skla nepatří:",
+            "text": "Mezi základní suroviny, užívané při výrobě běžného skla nepatří:",
             "isMulti": true,
             "options": [
                 {
@@ -7019,23 +7019,23 @@
         },
         {
             "id": "q306",
-            "text": "Z následujících odpovědí vyberte takovou která obsahuje triviální názvy pouze těchto sloučenin - COCl2 Ca(OH)2 NaNO3:",
+            "text": "Z následujících odpovědí vyberte takovou, která obsahuje triviální názvy pouze těchto sloučenin - COCl2, Ca(OH)2, NaNO3:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "fosgen pálené vápno chilský ledek",
+                    "text": "fosgen, pálené vápno, chilský ledek",
                     "isCorrect": false
                 },
                 {
-                    "text": "chlorové vápno pálené vápno ledek amonný",
+                    "text": "chlorové vápno, pálené vápno, ledek amonný",
                     "isCorrect": false
                 },
                 {
-                    "text": "fosgen hašené vápno chilský ledek",
+                    "text": "fosgen, hašené vápno, chilský ledek",
                     "isCorrect": true
                 },
                 {
-                    "text": "chlorid uhličitý hašené vápno nitrid sodný",
+                    "text": "chlorid uhličitý, hašené vápno, nitrid sodný",
                     "isCorrect": false
                 }
             ]
@@ -7065,7 +7065,7 @@
         },
         {
             "id": "q308",
-            "text": "Zápalka se vznítí škrtnutím protože hlavička zápalky obsahuje chlorečnan draselný a na třecí ploše krabičky je:",
+            "text": "Zápalka se vznítí škrtnutím, protože hlavička zápalky obsahuje chlorečnan draselný a na třecí ploše krabičky je:",
             "isMulti": true,
             "options": [
                 {
@@ -7088,7 +7088,7 @@
         },
         {
             "id": "q309",
-            "text": "Oleum vzniká tak že v kyselině sírové se rozpouští",
+            "text": "Oleum vzniká tak, že v kyselině sírové se rozpouští",
             "isMulti": true,
             "options": [
                 {
@@ -7732,7 +7732,7 @@
         },
         {
             "id": "q337",
-            "text": "Rozhodněte která z následujících kyselin je nejslabší:",
+            "text": "Rozhodněte, která z následujících kyselin je nejslabší:",
             "isMulti": true,
             "options": [
                 {
@@ -7755,7 +7755,7 @@
         },
         {
             "id": "q338",
-            "text": "Rozhodněte která z následujících kyselin je nejsilnější:",
+            "text": "Rozhodněte, která z následujících kyselin je nejsilnější:",
             "isMulti": true,
             "options": [
                 {
@@ -7870,7 +7870,7 @@
         },
         {
             "id": "q343",
-            "text": "Je-li disociační konstanta kyseliny Ka < 10–10 považujeme tuto kyselinu za:",
+            "text": "Je-li disociační konstanta kyseliny Ka < 10–10, považujeme tuto kyselinu za:",
             "isMulti": true,
             "options": [
                 {
@@ -7893,7 +7893,7 @@
         },
         {
             "id": "q344",
-            "text": "Reakce při nichž dochází k přenosu H+ označujeme jako:",
+            "text": "Reakce, při nichž dochází k přenosu H+, označujeme jako:",
             "isMulti": true,
             "options": [
                 {
@@ -8100,7 +8100,7 @@
         },
         {
             "id": "q353",
-            "text": "Ředění kyseliny sírové vodou se provádí tak že",
+            "text": "Ředění kyseliny sírové vodou se provádí tak, že",
             "isMulti": true,
             "options": [
                 {
@@ -8238,7 +8238,7 @@
         },
         {
             "id": "q359",
-            "text": "Vyberte vlastnosti které charakterizují kyselinu fosforečnou:",
+            "text": "Vyberte vlastnosti, které charakterizují kyselinu fosforečnou:",
             "isMulti": true,
             "options": [
                 {
@@ -8284,7 +8284,7 @@
         },
         {
             "id": "q361",
-            "text": "2.2 Hydrolýza solí Rozhodněte které z uvedených solí budou ve vodném roztoku reagovat alkalicky:",
+            "text": "2.2 Hydrolýza solí Rozhodněte, které z uvedených solí budou ve vodném roztoku reagovat alkalicky:",
             "isMulti": true,
             "options": [
                 {
@@ -8307,7 +8307,7 @@
         },
         {
             "id": "q362",
-            "text": "Rozhodněte který z vodných roztoků uvedených solí bude v důsledku hydrolýzy reagovat kysele:",
+            "text": "Rozhodněte, který z vodných roztoků uvedených solí bude v důsledku hydrolýzy reagovat kysele:",
             "isMulti": true,
             "options": [
                 {
@@ -8330,7 +8330,7 @@
         },
         {
             "id": "q363",
-            "text": "Rozhodněte které z vodných roztoků uvedených solí budou v důsledku hydrolýzy reagovat alkalicky:",
+            "text": "Rozhodněte, které z vodných roztoků uvedených solí budou v důsledku hydrolýzy reagovat alkalicky:",
             "isMulti": true,
             "options": [
                 {
@@ -8353,7 +8353,7 @@
         },
         {
             "id": "q364",
-            "text": "Rozhodněte které z vodných roztoků uvedených solí budou v důsledku hydrolýzy reagovat kysele:",
+            "text": "Rozhodněte, které z vodných roztoků uvedených solí budou v důsledku hydrolýzy reagovat kysele:",
             "isMulti": true,
             "options": [
                 {
@@ -8422,7 +8422,7 @@
         },
         {
             "id": "q367",
-            "text": "Rozhodněte které z vodných roztoků uvedených solí budou v důsledku hydrolýzy reagovat alkalicky:",
+            "text": "Rozhodněte, které z vodných roztoků uvedených solí budou v důsledku hydrolýzy reagovat alkalicky:",
             "isMulti": true,
             "options": [
                 {
@@ -8537,23 +8537,23 @@
         },
         {
             "id": "q372",
-            "text": "Dusík tvoří s kyslíkem oxidy v nichž mají atomy dusíku oxidační číslo:",
+            "text": "Dusík tvoří s kyslíkem oxidy, v nichž mají atomy dusíku oxidační číslo:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "I II III IV V",
+                    "text": "I, II, III, IV, V",
                     "isCorrect": true
                 },
                 {
-                    "text": "I II III IV V VI",
+                    "text": "I, II, III, IV, V, VI",
                     "isCorrect": false
                 },
                 {
-                    "text": "–III –I I II III IV V",
+                    "text": "–III, –I, I, II, III, IV, V",
                     "isCorrect": false
                 },
                 {
-                    "text": "pouze I III V",
+                    "text": "pouze I, III, V",
                     "isCorrect": false
                 }
             ]
@@ -8564,19 +8564,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "pouze –I II III IV V",
+                    "text": "pouze –I, II, III, IV, V",
                     "isCorrect": false
                 },
                 {
-                    "text": "pouze –III III V",
+                    "text": "pouze –III, III, V",
                     "isCorrect": false
                 },
                 {
-                    "text": "–I II III IV V VI",
+                    "text": "–I, II, III, IV, V, VI",
                     "isCorrect": false
                 },
                 {
-                    "text": "–III –II –I I II III IV V",
+                    "text": "–III, –II, –I, I, II, III, IV, V",
                     "isCorrect": true
                 }
             ]
@@ -8660,15 +8660,15 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "–III –I III V VI",
+                    "text": "–III, –I, III, V, VI",
                     "isCorrect": false
                 },
                 {
-                    "text": "–III III V",
+                    "text": "–III, III, V",
                     "isCorrect": true
                 },
                 {
-                    "text": "pouze III V",
+                    "text": "pouze III, V",
                     "isCorrect": false
                 }
             ]
@@ -8748,7 +8748,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "–I III V VII",
+                    "text": "–I, III, V, VII",
                     "isCorrect": false
                 },
                 {
@@ -8756,7 +8756,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "III V VII",
+                    "text": "III, V, VII",
                     "isCorrect": false
                 },
                 {
@@ -8767,7 +8767,7 @@
         },
         {
             "id": "q382",
-            "text": "Který z halogenů může mít kromě nuly jen oxidační číslo –I?",
+            "text": "Který z halogenů může mít, kromě nuly, jen oxidační číslo –I?",
             "isMulti": true,
             "options": [
                 {
@@ -8840,19 +8840,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "–I I III V VII",
+                    "text": "–I, I, III, V, VII",
                     "isCorrect": true
                 },
                 {
-                    "text": "pouze I III V VII",
+                    "text": "pouze I, III, V, VII",
                     "isCorrect": false
                 },
                 {
-                    "text": "pouze III V",
+                    "text": "pouze III, V",
                     "isCorrect": false
                 },
                 {
-                    "text": "–II –I I II III IV V VI",
+                    "text": "–II, –I, I, II, III, IV, V, VI",
                     "isCorrect": false
                 }
             ]
@@ -8944,7 +8944,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "nula kladné a záporné",
+                    "text": "nula, kladné a záporné",
                     "isCorrect": true
                 }
             ]
@@ -9070,7 +9070,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 602 · 10–19 C",
+                    "text": "1,602 · 10–19 C",
                     "isCorrect": false
                 },
                 {
@@ -9089,7 +9089,7 @@
         },
         {
             "id": "q396",
-            "text": "Jako redukční činidlo označujeme látku která v redoxní reakci:",
+            "text": "Jako redukční činidlo označujeme látku, která v redoxní reakci:",
             "isMulti": true,
             "options": [
                 {
@@ -9158,7 +9158,7 @@
         },
         {
             "id": "q399",
-            "text": "Z následujících látek vyznačte látky jejichž atomy se snadno oxidují:",
+            "text": "Z následujících látek vyznačte látky, jejichž atomy se snadno oxidují:",
             "isMulti": true,
             "options": [
                 {
@@ -9181,7 +9181,7 @@
         },
         {
             "id": "q400",
-            "text": "Jako oxidační činidlo označujeme látku která v redoxní reakci:",
+            "text": "Jako oxidační činidlo označujeme látku, která v redoxní reakci:",
             "isMulti": true,
             "options": [
                 {
@@ -9204,7 +9204,7 @@
         },
         {
             "id": "q401",
-            "text": "Z uvedených látek vyznačte látky které se snadno redukují:",
+            "text": "Z uvedených látek vyznačte látky, které se snadno redukují:",
             "isMulti": true,
             "options": [
                 {
@@ -9411,7 +9411,7 @@
         },
         {
             "id": "q410",
-            "text": "Kolik elektronů je vyměněno jestliže ion S–II se přemění na SVI:",
+            "text": "Kolik elektronů je vyměněno, jestliže ion S–II se přemění na SVI:",
             "isMulti": true,
             "options": [
                 {
@@ -9480,7 +9480,7 @@
         },
         {
             "id": "q413",
-            "text": "Kolik elektronů je vyměněno jestliže ion As–III se přemění na AsIII ?",
+            "text": "Kolik elektronů je vyměněno, jestliže ion As–III se přemění na AsIII ?",
             "isMulti": true,
             "options": [
                 {
@@ -9680,7 +9680,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "někdy oxidační a někdy redukční záleží na pH",
+                    "text": "někdy oxidační a někdy redukční, záleží na pH",
                     "isCorrect": false
                 }
             ]
@@ -9800,7 +9800,6 @@
                 }
             ]
         },
-        
         {
             "id": "q427",
             "text": "Určete konečné produkty elektrolýzy taveniny KCl a vodného roztoku KCl: tavenina vodný roztok",
@@ -9824,7 +9823,6 @@
                 }
             ]
         },
-
         {
             "id": "q428",
             "text": "H2 (KOH) Cl2 K Cl2 Při elektrolýze vodného roztoku chloridu sodného se na katodě vylučuje (včetně meziproduktů):",
@@ -9923,19 +9921,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "a = 1 b = 6 x = 2 y = 3",
+                    "text": "a = 1, b = 6, x = 2, y = 3",
                     "isCorrect": true
                 },
                 {
-                    "text": "a = 1 b = 3 x = 2 y = 3",
+                    "text": "a = 1, b = 3, x = 2, y = 3",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 1 b = 2 x =1 y =3",
+                    "text": "a = 1, b = 2, x =1, y =3",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 2 b = 6 x = 2 y = 3",
+                    "text": "a = 2, b = 6, x = 2, y = 3",
                     "isCorrect": false
                 }
             ]
@@ -9946,19 +9944,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "a = 1 b = 8 c = 4 d = 2 e = 1 f = 4",
+                    "text": "a = 1, b = 8, c = 4, d = 2, e = 1, f = 4",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 2 b = 16 c = 5 d = 2 e = 2 f = 8",
+                    "text": "a = 2, b = 16, c = 5, d = 2, e = 2, f = 8",
                     "isCorrect": true
                 },
                 {
-                    "text": "a = 2 b = 2 c = 6 d = 1 e = 2 f = 8",
+                    "text": "a = 2, b = 2, c = 6, d = 1, e = 2, f = 8",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 2 b = 1 c = 2 d = 4 e = 1 f = 2",
+                    "text": "a = 2, b = 1, c = 2, d = 4, e = 1, f = 2",
                     "isCorrect": false
                 }
             ]
@@ -9969,42 +9967,42 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "a = 3 b = 6 x = 1 y = 5 z = 3",
+                    "text": "a = 3, b = 6, x = 1, y = 5, z = 3",
                     "isCorrect": true
                 },
                 {
-                    "text": "a = 1 b = 1 x = 1 y = 1 z = 1",
+                    "text": "a = 1, b = 1, x = 1, y = 1, z = 1",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 4 b = 5 x = 3 y = 2 z = 2",
+                    "text": "a = 4, b = 5, x = 3, y = 2, z = 2",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 2 b = 2 x = 1 y = 1 z = 2",
+                    "text": "a = 2, b = 2, x = 1, y = 1, z = 2",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q435",
-            "text": "Bromovodík reaguje s kyselinou sírovou za vzniku bromu sulfanu a vody. Tuto reakci popisuje rovnice: a HBr + b H2SO4 → x Br2 + y H2S + z H2O Která z následujících odpovědí obsahuje správné stechiometrické koeficienty?",
+            "text": "Bromovodík reaguje s kyselinou sírovou za vzniku bromu, sulfanu a vody. Tuto reakci popisuje rovnice: a HBr + b H2SO4 → x Br2 + y H2S + z H2O Která z následujících odpovědí obsahuje správné stechiometrické koeficienty?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "a = 6 b = 2 x = 3 y = 2 z = 2",
+                    "text": "a = 6, b = 2, x = 3, y = 2, z = 2",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 8 b = 1 x = 4 y = 1 z = 4",
+                    "text": "a = 8, b = 1, x = 4, y = 1, z = 4",
                     "isCorrect": true
                 },
                 {
-                    "text": "a = 4 b = 1 x = 2 y = 1 z = 1",
+                    "text": "a = 4, b = 1, x = 2, y = 1, z = 1",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 2 b = 2 x = 1 y = 1 z = 2",
+                    "text": "a = 2, b = 2, x = 1, y = 1, z = 2",
                     "isCorrect": false
                 }
             ]
@@ -10015,19 +10013,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "a = 3 b = 5 c = 2 x = 3 y = 5",
+                    "text": "a = 3, b = 5, c = 2, x = 3, y = 5",
                     "isCorrect": true
                 },
                 {
-                    "text": "a = 5 b = 1 c = 2 x = 5 y = 1",
+                    "text": "a = 5, b = 1, c = 2, x = 5, y = 1",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 4 b = 2 c = 1 x = 4 y = 2",
+                    "text": "a = 4, b = 2, c = 1, x = 4, y = 2",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 1 b = 3 c = 2 x = 1 y = 3",
+                    "text": "a = 1, b = 3, c = 2, x = 1, y = 3",
                     "isCorrect": false
                 }
             ]
@@ -10061,19 +10059,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "a = 3 b = 2 x = 1 y = 3",
+                    "text": "a = 3, b = 2, x = 1, y = 3",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 3 b = 2 x = 1 y = 6",
+                    "text": "a = 3, b = 2, x = 1, y = 6",
                     "isCorrect": true
                 },
                 {
-                    "text": "a = 2 b = 3 x = 1 y = 6",
+                    "text": "a = 2, b = 3, x = 1, y = 6",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 1 b = 2 x = 1 y = 2",
+                    "text": "a = 1, b = 2, x = 1, y = 2",
                     "isCorrect": false
                 }
             ]
@@ -10084,19 +10082,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "a = 2 b = 3 x = 1 y = 3",
+                    "text": "a = 2, b = 3, x = 1, y = 3",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 1 b = 2 x = 1 y = 2",
+                    "text": "a = 1, b = 2, x = 1, y = 2",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 3 b = 2 x = 1 y = 2",
+                    "text": "a = 3, b = 2, x = 1, y = 2",
                     "isCorrect": false
                 },
                 {
-                    "text": "a = 3 b = 2 x = 1 y = 3",
+                    "text": "a = 3, b = 2, x = 1, y = 3",
                     "isCorrect": true
                 }
             ]
@@ -10149,214 +10147,214 @@
         },
         {
             "id": "q442",
-            "text": "1 Výpočty z chemických vzorců Určete hmotnost kyslíku připadající v uhličitanu sodném na 50 gramů sodíku: Ar(Na) = 23 Ar(C) = 12 Ar(O) = 16",
+            "text": "1 Výpočty z chemických vzorců Určete hmotnost kyslíku, připadající v uhličitanu sodném na 50 gramů sodíku: Ar(Na) = 23, Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "34 78 gramů kyslíku",
+                    "text": "34,78 gramů kyslíku",
                     "isCorrect": false
                 },
                 {
-                    "text": "52 17 gramů kyslíku",
+                    "text": "52,17 gramů kyslíku",
                     "isCorrect": true
                 },
                 {
-                    "text": "47 91 gramů kyslíku",
+                    "text": "47,91 gramů kyslíku",
                     "isCorrect": false
                 },
                 {
-                    "text": "104 34 gramů kyslíku",
+                    "text": "104,34 gramů kyslíku",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q443",
-            "text": "Určete hmotnost kyslíku připadajíce v siřičitanu sodném na 10 g sodíku: Ar(Na) = 23 Ar(S) = 32 Ar(O) = 16",
+            "text": "Určete hmotnost kyslíku, připadajíce v siřičitanu sodném na 10 g sodíku: Ar(Na) = 23, Ar(S) = 32, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "10 43 g",
+                    "text": "10,43 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "13 91 g",
+                    "text": "13,91 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "48 17 g",
+                    "text": "48,17 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 04 g",
+                    "text": "1,04 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q444",
-            "text": "Určete hmotnost kyslíku připadající na 20 g draslíku v síranu draselném: Ar(K) = 39 Ar(S) = 32 Ar(O) = 16",
+            "text": "Určete hmotnost kyslíku, připadající na 20 g draslíku v síranu draselném: Ar(K) = 39, Ar(S) = 32, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "20 7 g",
+                    "text": "20,7 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "6 4 g",
+                    "text": "6,4 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "8 2 g",
+                    "text": "8,2 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "16 4 g",
+                    "text": "16,4 g",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q445",
-            "text": "Určete hmotnost draslíku připadající v manganistanu draselném na 50 gramů kyslíku: Ar(K) = 39 Ar(Mn) = 55 Ar(O) = 16",
+            "text": "Určete hmotnost draslíku, připadající v manganistanu draselném na 50 gramů kyslíku: Ar(K) = 39, Ar(Mn) = 55, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "60 93 g draslíku",
+                    "text": "60,93 g draslíku",
                     "isCorrect": false
                 },
                 {
-                    "text": "40 62 g draslíku",
+                    "text": "40,62 g draslíku",
                     "isCorrect": false
                 },
                 {
-                    "text": "30 47 g draslíku",
+                    "text": "30,47 g draslíku",
                     "isCorrect": true
                 },
                 {
-                    "text": "52 17 g draslíku",
+                    "text": "52,17 g draslíku",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q446",
-            "text": "Určete hmotnost dusíku připadající v dusičnanu sodném na 10 gramů sodíku: Ar(Na) = 23 Ar(N) = 14 Ar(O) = 16",
+            "text": "Určete hmotnost dusíku, připadající v dusičnanu sodném na 10 gramů sodíku: Ar(Na) = 23, Ar(N) = 14, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "3 04 gramů dusíku",
+                    "text": "3,04 gramů dusíku",
                     "isCorrect": false
                 },
                 {
-                    "text": "12 17 gramů dusíku",
+                    "text": "12,17 gramů dusíku",
                     "isCorrect": false
                 },
                 {
-                    "text": "20 87 gramů dusíku",
+                    "text": "20,87 gramů dusíku",
                     "isCorrect": false
                 },
                 {
-                    "text": "6 09 gramů dusíku",
+                    "text": "6,09 gramů dusíku",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q447",
-            "text": "Kolik gramů dusíku obsahuje 100 gramů síranu amonného? Ar(N) = 14 Ar(S) = 32 Ar(O) = 16",
+            "text": "Kolik gramů dusíku obsahuje 100 gramů síranu amonného? Ar(N) = 14, Ar(S) = 32, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "14 3 g",
+                    "text": "14,3 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "21 2 g",
+                    "text": "21,2 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "2 12 g",
+                    "text": "2,12 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "12 4 g",
+                    "text": "12,4 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q448",
-            "text": "Kolik gramů dusíku obsahuje 100 gramů uhličitanu amonného? Ar(N) = 14 Ar(C) = 12 Ar(O) = 16",
+            "text": "Kolik gramů dusíku obsahuje 100 gramů uhličitanu amonného? Ar(N) = 14, Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "2 91 g",
+                    "text": "2,91 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "29 2 g",
+                    "text": "29,2 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "21 2 g",
+                    "text": "21,2 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "17 9 g",
+                    "text": "17,9 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q449",
-            "text": "Kolik gramů krystalové vody obsahuje 15 gramů modré skalice CuSO4·5H2O? Ar(Cu) = 64 Ar(S) = 32 Ar(O) = 16",
+            "text": "Kolik gramů krystalové vody obsahuje 15 gramů modré skalice CuSO4·5H2O? Ar(Cu) = 64, Ar(S) = 32, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "5 41 g",
+                    "text": "5,41 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "6 7 g",
+                    "text": "6,7 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "8 38 g",
+                    "text": "8,38 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "5 01 g",
+                    "text": "5,01 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q450",
-            "text": "Kolik gramů krystalové vody obsahuje 12 gramů Glauberovy soli Na2SO4 ·10H2O? Ar(Na) = 23 Ar(S) = 32 Ar(O) = 16",
+            "text": "Kolik gramů krystalové vody obsahuje 12 gramů Glauberovy soli Na2SO4 ·10H2O? Ar(Na) = 23, Ar(S) = 32, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "6 7 g",
+                    "text": "6,7 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "7 2 g",
+                    "text": "7,2 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 35 g",
+                    "text": "1,35 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "8 6 g",
+                    "text": "8,6 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q451",
-            "text": "Posuďte která z uvedených sloučenin má nejnižší procentový obsah dusíku: Ar(N) = 14 Ar(S) = 32 Ar(Na) = 23 Ar(O) = 16 Ar(H) = 1 Ar(Cl) = 35",
+            "text": "Posuďte, která z uvedených sloučenin má nejnižší procentový obsah dusíku: Ar(N) = 14, Ar(S) = 32, Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -10379,7 +10377,7 @@
         },
         {
             "id": "q452",
-            "text": "Posuďte která z uvedených sloučenin má nejvyšší procentový obsah dusíku: Ar (N) = 14 Ar(S) = 32 Ar(Na) = 23 Ar(O) = 16 Ar(H) = 1 Ar(Cl) = 35",
+            "text": "Posuďte, která z uvedených sloučenin má nejvyšší procentový obsah dusíku: Ar (N) = 14, Ar(S) = 32, Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -10636,19 +10634,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "6 022 · 1023 mol–1",
+                    "text": "6,022 · 1023 mol–1",
                     "isCorrect": true
                 },
                 {
-                    "text": "6 022 · 1023 mol–1",
+                    "text": "6,022 · 1023 mol–1",
                     "isCorrect": false
                 },
                 {
-                    "text": "22 4 dm3 mol–1",
+                    "text": "22,4 dm3 mol–1",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 24 dm–3 mol–1",
+                    "text": "2,24 dm–3 mol–1",
                     "isCorrect": false
                 }
             ]
@@ -10736,7 +10734,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 5 mol",
+                    "text": "0,5 mol",
                     "isCorrect": false
                 },
                 {
@@ -10751,42 +10749,42 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "6 02 · 1023 atomů Ag",
+                    "text": "6,02 · 1023 atomů Ag",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 2 · 1022 atomů Ag",
+                    "text": "1,2 · 1022 atomů Ag",
                     "isCorrect": false
                 },
                 {
-                    "text": "3 01 · 10–23 atomů Ag",
+                    "text": "3,01 · 10–23 atomů Ag",
                     "isCorrect": false
                 },
                 {
-                    "text": "3 01 · 1023 atomů Ag",
+                    "text": "3,01 · 1023 atomů Ag",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q469",
-            "text": "13 3 gramů kovové mědi je soubor (přibližně): Ar(Cu) = 64",
+            "text": "13,3 gramů kovové mědi je soubor (přibližně): Ar(Cu) = 64",
             "isMulti": true,
             "options": [
                 {
-                    "text": "6 02 · 1024 atomů Cu",
+                    "text": "6,02 · 1024 atomů Cu",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 2 · 1023 atomů Cu",
+                    "text": "1,2 · 1023 atomů Cu",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 6 · 1023 atomů Cu",
+                    "text": "0,6 · 1023 atomů Cu",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 6 · 10–23 atomů Cu",
+                    "text": "0,6 · 10–23 atomů Cu",
                     "isCorrect": false
                 }
             ]
@@ -10797,19 +10795,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 356 mol Fe; 2 14 · 10–23 atomů Fe",
+                    "text": "0,356 mol Fe; 2,14 · 10–23 atomů Fe",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 178 mol Fe; 1 07 · 1023 atomů Fe",
+                    "text": "0,178 mol Fe; 1,07 · 1023 atomů Fe",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 178 mol Fe; 1 07 · 10–23 atomů Fe",
+                    "text": "0,178 mol Fe; 1,07 · 10–23 atomů Fe",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 356 mol Fe; 2 14 · 1023 atomů Fe",
+                    "text": "0,356 mol Fe; 2,14 · 1023 atomů Fe",
                     "isCorrect": false
                 }
             ]
@@ -10820,19 +10818,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 02 mol",
+                    "text": "1,02 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 90 mol",
+                    "text": "0,90 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 77 mol",
+                    "text": "0,77 mol",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 77 mmol",
+                    "text": "0,77 mmol",
                     "isCorrect": false
                 }
             ]
@@ -10843,19 +10841,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 mol Fe; 6 023 · 1023 atomů Fe",
+                    "text": "1 mol Fe; 6,023 · 1023 atomů Fe",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 0178 mol Fe; 0 107 · 1023 atomů Fe",
+                    "text": "0,0178 mol Fe; 0,107 · 1023 atomů Fe",
                     "isCorrect": true
                 },
                 {
-                    "text": "1 78 · 10–2 mol Fe; 1 07 · 1022 atomů Fe",
+                    "text": "1,78 · 10–2 mol Fe; 1,07 · 1022 atomů Fe",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 0178 mol Fe; 0 107 ·10–23 atomů Fe",
+                    "text": "0,0178 mol Fe; 0,107 ·10–23 atomů Fe",
                     "isCorrect": false
                 }
             ]
@@ -10866,19 +10864,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 313 mol Cu; 1 9 · 10–23 atomů Cu",
+                    "text": "0,313 mol Cu; 1,9 · 10–23 atomů Cu",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 178 mol Cu; 1 07 · 1023 atomů Cu",
+                    "text": "0,178 mol Cu; 1,07 · 1023 atomů Cu",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 313 mol Cu; 1 9 · 1023 atomů Cu",
+                    "text": "0,313 mol Cu; 1,9 · 1023 atomů Cu",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 178 mol Cu; 1 07 · 10–23 atomů Cu",
+                    "text": "0,178 mol Cu; 1,07 · 10–23 atomů Cu",
                     "isCorrect": false
                 }
             ]
@@ -10889,19 +10887,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 156 mol Cu; 9 48 · 1022 atomů Cu",
+                    "text": "0,156 mol Cu; 9,48 · 1022 atomů Cu",
                     "isCorrect": true
                 },
                 {
-                    "text": "10 mol Cu; 60 23 · 1023 atomů Cu",
+                    "text": "10 mol Cu; 60,23 · 1023 atomů Cu",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 156 mol Cu; 9 48 · 10–23 atomů Cu",
+                    "text": "0,156 mol Cu; 9,48 · 10–23 atomů Cu",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 56 · 10–1 mol Cu; 0 948 · 1023 atomů Cu",
+                    "text": "1,56 · 10–1 mol Cu; 0,948 · 1023 atomů Cu",
                     "isCorrect": true
                 }
             ]
@@ -10912,11 +10910,11 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 5 mol",
+                    "text": "0,5 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 25 mol",
+                    "text": "0,25 mol",
                     "isCorrect": true
                 },
                 {
@@ -10924,7 +10922,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 75 mol",
+                    "text": "0,75 mol",
                     "isCorrect": false
                 }
             ]
@@ -10935,11 +10933,11 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 580 mol",
+                    "text": "0,580 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 128 mol",
+                    "text": "0,128 mol",
                     "isCorrect": false
                 },
                 {
@@ -10947,7 +10945,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "2 06 mol",
+                    "text": "2,06 mol",
                     "isCorrect": true
                 }
             ]
@@ -10958,19 +10956,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "5 mol Au; 3 05 · 1023 atomů Au",
+                    "text": "5 mol Au; 3,05 · 1023 atomů Au",
                     "isCorrect": false
                 },
                 {
-                    "text": "5 · 10–3 mol Au; 3 06 · 10–21 atomů Au",
+                    "text": "5 · 10–3 mol Au; 3,06 · 10–21 atomů Au",
                     "isCorrect": false
                 },
                 {
-                    "text": "5 07 · 10–3 mol Au; 0 0306 · 1023 atomů Au",
+                    "text": "5,07 · 10–3 mol Au; 0,0306 · 1023 atomů Au",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 00507 mol Au; 3 056 · 1021 atomů Au",
+                    "text": "0,00507 mol Au; 3,056 · 1021 atomů Au",
                     "isCorrect": true
                 }
             ]
@@ -10981,30 +10979,30 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 037 mol Al; 0 223 · 10–23 atomů Al",
+                    "text": "0,037 mol Al; 0,223 · 10–23 atomů Al",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 mol Al; 6 023 · 1023 atomů Al",
+                    "text": "1 mol Al; 6,023 · 1023 atomů Al",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 037 mol Al; 0 223 · 1023 atomů Al",
+                    "text": "0,037 mol Al; 0,223 · 1023 atomů Al",
                     "isCorrect": true
                 },
                 {
-                    "text": "3 7 · 10–2 mol Al; 2 23 · 1022 atomů Al",
+                    "text": "3,7 · 10–2 mol Al; 2,23 · 1022 atomů Al",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q479",
-            "text": "Jaké látkové množství vody představuje 100 gramů vody? Ar(H) = 1 Ar(O) = 16",
+            "text": "Jaké látkové množství vody představuje 100 gramů vody? Ar(H) = 1, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "5 56 mol",
+                    "text": "5,56 mol",
                     "isCorrect": true
                 },
                 {
@@ -11012,7 +11010,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 mol",
+                    "text": "0,1 mol",
                     "isCorrect": false
                 },
                 {
@@ -11023,15 +11021,15 @@
         },
         {
             "id": "q480",
-            "text": "Jaké látkové množství vody představuje 20 gramů vody? Ar(H) = 1 Ar(O) = 16",
+            "text": "Jaké látkové množství vody představuje 20 gramů vody? Ar(H) = 1, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 8 mol",
+                    "text": "0,8 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 1 mol dm–3",
+                    "text": "1,1 mol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -11039,14 +11037,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 1 mol",
+                    "text": "1,1 mol",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q481",
-            "text": "Jaké látkové množství H2O představuje 1000 gramů vody? Ar(H) = 1 Ar(O) = 16",
+            "text": "Jaké látkové množství H2O představuje 1000 gramů vody? Ar(H) = 1, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
@@ -11058,11 +11056,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "62 5 mol",
+                    "text": "62,5 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "55 6 mol",
+                    "text": "55,6 mol",
                     "isCorrect": true
                 }
             ]
@@ -11077,11 +11075,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 5 násobek Avogadrovy konstanty",
+                    "text": "1,5 násobek Avogadrovy konstanty",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 5 násobek Avogadrovy konstanty",
+                    "text": "0,5 násobek Avogadrovy konstanty",
                     "isCorrect": false
                 },
                 {
@@ -11096,7 +11094,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 5 násobek Avogadrovy konstanty",
+                    "text": "1,5 násobek Avogadrovy konstanty",
                     "isCorrect": false
                 },
                 {
@@ -11115,111 +11113,111 @@
         },
         {
             "id": "q484",
-            "text": "Jaké látkové množství HCl představuje 18 gramů HCl? Ar(H) = 1 Ar(Cl) = 35",
+            "text": "Jaké látkové množství HCl představuje 18 gramů HCl? Ar(H) = 1, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "2 65 mol",
+                    "text": "2,65 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 50 mol",
+                    "text": "1,50 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 70 mol dm–3",
+                    "text": "0,70 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 50 mol",
+                    "text": "0,50 mol",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q485",
-            "text": "Jaké látkové množství glukosy představuje 100 g glukosy a kolik částic glukosy je v tomto množství obsaženo? Ar(C) = 12 Ar(O) = 16",
+            "text": "Jaké látkové množství glukosy představuje 100 g glukosy a kolik částic glukosy je v tomto množství obsaženo? Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 275 mol glukosy; 1 66 · 1023 částic glukosy",
+                    "text": "0,275 mol glukosy; 1,66 · 1023 částic glukosy",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 mol glukosy; 0 6 · 1023 částic glukosy",
+                    "text": "1 mol glukosy; 0,6 · 1023 částic glukosy",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 56 mol glukosy; 3 35 · 1023 částic glukosy",
+                    "text": "0,56 mol glukosy; 3,35 · 1023 částic glukosy",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 55 mol glukosy; 3 31 · 10–23 částic glukosy",
+                    "text": "0,55 mol glukosy; 3,31 · 10–23 částic glukosy",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q486",
-            "text": "Jaká je látková koncentrace KCl obsahuje-li 0 400 dm3 roztoku 12 gramů KCl? Ar(K) = 39 Ar(Cl) = 35",
+            "text": "Jaká je látková koncentrace KCl obsahuje-li 0,400 dm3 roztoku 12 gramů KCl? Ar(K) = 39, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "4 05 mol dm–3",
+                    "text": "4,05 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 61 mol dm–3",
+                    "text": "1,61 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 405 mol dm–3",
+                    "text": "0,405 mol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 161 mol dm–3",
+                    "text": "0,161 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q487",
-            "text": "Jaká je látková koncentrace vodného roztoku NaCl obsahuje-li 0 200 dm3 roztoku 2 gramy NaCl? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Jaká je látková koncentrace vodného roztoku NaCl, obsahuje-li 0,200 dm3 roztoku 2 gramy NaCl? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 0342 mol dm–3",
+                    "text": "0,0342 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 172 mol dm–3",
+                    "text": "0,172 mol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 342 mol dm–3",
+                    "text": "0,342 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 0172 mol dm–3",
+                    "text": "0,0172 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q488",
-            "text": "Jaká je látková koncentrace NaCl obsahuje-li 0 1 dm3 roztoku 2 9 g NaCl? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Jaká je látková koncentrace NaCl, obsahuje-li 0,1 dm3 roztoku 2,9 g NaCl? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 05 mol dm–3",
+                    "text": "0,05 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 5 mol dm–3",
+                    "text": "0,5 mol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 05 mmol dm–3",
+                    "text": "0,05 mmol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -11230,42 +11228,42 @@
         },
         {
             "id": "q489",
-            "text": "Jaká je látková koncentrace NaCl obsahuje-li 0 1 dm3 roztoku 0 9 g NaCl? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Jaká je látková koncentrace NaCl obsahuje-li 0,1 dm3 roztoku 0,9 g NaCl? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "15 5 mol dm–3",
+                    "text": "15,5 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 5 mol dm–3",
+                    "text": "1,5 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 9 mmol dm–3",
+                    "text": "0,9 mmol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 155 mol dm–3",
+                    "text": "0,155 mol dm–3",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q490",
-            "text": "Jaká je přibližná látková koncentrace NaCl v roztoku který obsa- huje 10 gramů NaCl ve 400 ml vody? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Jaká je přibližná látková koncentrace NaCl v roztoku, který obsa- huje 10 gramů NaCl ve 400 ml vody? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "4 3 mol dm–3",
+                    "text": "4,3 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 43 mol dm–3",
+                    "text": "0,43 mol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 172 mol",
+                    "text": "0,172 mol",
                     "isCorrect": false
                 },
                 {
@@ -11276,38 +11274,38 @@
         },
         {
             "id": "q491",
-            "text": "Jaká je přibližná látková koncentrace NaOH v roztoku který obsahuje 12 8 g NaOH v 800 ml vody? Ar(Na) = 23 Ar(O) = 16 Ar(H) = 1",
+            "text": "Jaká je přibližná látková koncentrace NaOH v roztoku, který obsahuje 12,8 g NaOH v 800 ml vody? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 40 mol dm–3",
+                    "text": "0,40 mol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "2 23 mol dm–3",
+                    "text": "2,23 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 28 mol dm–3",
+                    "text": "1,28 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 12 mol dm–3",
+                    "text": "0,12 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q492",
-            "text": "Jaká je látková koncentrace NaOH v roztoku o objemu 0 400 dm3 obsahujícího NaOH o hmotnosti 12 gramů? Ar(Na) = 23 Ar(O) = 16 Ar(H) = 1",
+            "text": "Jaká je látková koncentrace NaOH v roztoku o objemu 0,400 dm3 obsahujícího NaOH o hmotnosti 12 gramů? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 3 mol dm–3",
+                    "text": "0,3 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 624 mol dm–3",
+                    "text": "0,624 mol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -11315,41 +11313,41 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 75 mol dm–3",
+                    "text": "0,75 mol dm–3",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q493",
-            "text": "Jaká je látková koncentrace NaOH v roztoku o objemu 0 200 dm3 obsahujícího NaOH o hmotnosti 2 gramy? Ar(Na) = 23 Ar(O) = 16 Ar(H) = 1",
+            "text": "Jaká je látková koncentrace NaOH v roztoku o objemu 0,200 dm3, obsahujícího NaOH o hmotnosti 2 gramy? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
-                    "text": "7 5 mol dm–3",
+                    "text": "7,5 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 mol dm–3",
+                    "text": "0,1 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 25 mol dm–3",
+                    "text": "0,25 mol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 75 mol dm–3",
+                    "text": "0,75 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q494",
-            "text": "Jaká je látková koncentrace NaOH v roztoku o objemu 2 litry obsahujícího NaOH o hmotnosti 8 gramů? Ar(Na) = 23 Ar(O) = 16 Ar(H) = 1",
+            "text": "Jaká je látková koncentrace NaOH v roztoku o objemu 2 litry obsahujícího NaOH o hmotnosti 8 gramů? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 2 mol dm–3",
+                    "text": "0,2 mol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -11357,41 +11355,41 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 mol dm–3",
+                    "text": "0,1 mol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 01 mol dm–3",
+                    "text": "0,01 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q495",
-            "text": "Jaká je látková koncentrace KOH v roztoku o objemu 3 litry obsahujícího KOH o hmotnosti 10 5 g? Ar(K) = 23 Ar(O) = 16 Ar(H) = 1",
+            "text": "Jaká je látková koncentrace KOH v roztoku o objemu 3 litry obsahujícího KOH o hmotnosti 10,5 g? Ar(K) = 23, Ar(O) = 16, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 724 mol dm–3",
+                    "text": "0,724 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 438 mol dm–3",
+                    "text": "0,438 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 0523 mol dm–3",
+                    "text": "0,0523 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 0625 mol dm–3",
+                    "text": "0,0625 mol dm–3",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q496",
-            "text": "Jaká je látková koncentrace NH4Br obsahuje-li 1 5 dm3 roztoku 147 g NH4Br? Ar(Na) = 23 Ar(Br) = 80 Ar(H) = 1",
+            "text": "Jaká je látková koncentrace NH4Br, obsahuje-li 1,5 dm3 roztoku 147 g NH4Br? Ar(Na) = 23, Ar(Br) = 80, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
@@ -11399,11 +11397,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 mmol dm–3",
+                    "text": "0,1 mmol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 mol dm–3",
+                    "text": "0,1 mol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -11414,11 +11412,11 @@
         },
         {
             "id": "q497",
-            "text": "Kolik gramů KCl obsahuje 0 400 dm3 roztoku o látkové koncent- raci c(KCl) = 0 402 mol dm–3 ? Ar(K) = 39 Ar(Cl) = 35",
+            "text": "Kolik gramů KCl obsahuje 0,400 dm3 roztoku o látkové koncent- raci c(KCl) = 0,402 mol dm–3 ? Ar(K) = 39, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "7 4 g KCl",
+                    "text": "7,4 g KCl",
                     "isCorrect": false
                 },
                 {
@@ -11430,14 +11428,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "18 6 g KCl",
+                    "text": "18,6 g KCl",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q498",
-            "text": "Kolik gramů KCl obsahuje 800 ml roztoku o látkové koncentraci c(KCl) = 0 402 mol dm–3 ? Ar(K) = 39 Ar(Cl) = 35",
+            "text": "Kolik gramů KCl obsahuje 800 ml roztoku o látkové koncentraci c(KCl) = 0,402 mol dm–3 ? Ar(K) = 39, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -11449,7 +11447,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "37 3 g KCl",
+                    "text": "37,3 g KCl",
                     "isCorrect": false
                 },
                 {
@@ -11460,7 +11458,7 @@
         },
         {
             "id": "q499",
-            "text": "Kolik gramů NaCl obsahuje 200 cm3 roztoku o látkové koncentra- ci c(NaCl) = 0 171 mol dm–3 ? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Kolik gramů NaCl obsahuje 200 cm3 roztoku o látkové koncentra- ci c(NaCl) = 0,171 mol dm–3 ? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -11468,7 +11466,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 4 g NaCl",
+                    "text": "0,4 g NaCl",
                     "isCorrect": false
                 },
                 {
@@ -11476,14 +11474,14 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "0 2 g NaCl",
+                    "text": "0,2 g NaCl",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q500",
-            "text": "Kolik gramů NaCl obsahuje 500 ml roztoku o látkové koncentraci c(NaCl) = 0 171 mol dm–3 ? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Kolik gramů NaCl obsahuje 500 ml roztoku o látkové koncentraci c(NaCl) = 0,171 mol dm–3 ? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -11506,7 +11504,7 @@
         },
         {
             "id": "q501",
-            "text": "Kolik gramů NaOH obsahují 2 dm3 roztoku o látkové koncentraci c(NaOH) = 0 05 mol dm–3? Ar(Na) = 23 Ar(O) = 16 Ar(H) = 1",
+            "text": "Kolik gramů NaOH obsahují 2 dm3 roztoku o látkové koncentraci c(NaOH) = 0,05 mol dm–3? Ar(Na) = 23, Ar(O) = 16, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
@@ -11522,14 +11520,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 05 g",
+                    "text": "0,05 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q502",
-            "text": "Kolik gramů CaBr2 je třeba pro přípravu 10 dm3 roztoku o látko- vé koncentraci c(CaBr2) = 0 01 mol dm–3? Ar(Ca) = 40 Ar(Br) = 80",
+            "text": "Kolik gramů CaBr2 je třeba pro přípravu 10 dm3 roztoku o látko- vé koncentraci c(CaBr2) = 0,01 mol dm–3? Ar(Ca) = 40, Ar(Br) = 80",
             "isMulti": true,
             "options": [
                 {
@@ -11552,11 +11550,11 @@
         },
         {
             "id": "q503",
-            "text": "Kolik gramů KOH obsahuje 0 1 dm3 roztoku o látkové koncentraci c(KOH) = 0 1 mol dm–3? Ar(K) = 39 Ar(O) = 16 Ar(H) = 1",
+            "text": "Kolik gramů KOH obsahuje 0,1 dm3 roztoku o látkové koncentraci c(KOH) = 0,1 mol dm–3? Ar(K) = 39, Ar(O) = 16, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
-                    "text": "5 6 g",
+                    "text": "5,6 g",
                     "isCorrect": false
                 },
                 {
@@ -11568,18 +11566,18 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 56 g",
+                    "text": "0,56 g",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q504",
-            "text": "Jaký je přibližný počet molekul v 88 g oxidu dusného? Ar(N) = 14 Ar(O) = 16",
+            "text": "Jaký je přibližný počet molekul v 88 g oxidu dusného? Ar(N) = 14, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 2 ·1024",
+                    "text": "1,2 ·1024",
                     "isCorrect": true
                 },
                 {
@@ -11587,11 +11585,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 8 · 1024",
+                    "text": "1,8 · 1024",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 4 · 1024",
+                    "text": "2,4 · 1024",
                     "isCorrect": false
                 }
             ]
@@ -11614,7 +11612,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "2 5 molu",
+                    "text": "2,5 molu",
                     "isCorrect": true
                 }
             ]
@@ -11625,7 +11623,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 5 mol",
+                    "text": "1,5 mol",
                     "isCorrect": true
                 },
                 {
@@ -11644,53 +11642,53 @@
         },
         {
             "id": "q507",
-            "text": "Oxid dusičitý se slučuje s vodou za vzniku kyseliny dusičné a oxi- du dusnatého. Reakci popisuje rovnice 3 NO2 + H2O → 2 HNO3 + NO. Jaké látkové množství HNO3 může vzniknout z 0 06 mol NO2?",
+            "text": "Oxid dusičitý se slučuje s vodou za vzniku kyseliny dusičné a oxi- du dusnatého. Reakci popisuje rovnice 3 NO2 + H2O → 2 HNO3 + NO. Jaké látkové množství HNO3 může vzniknout z 0,06 mol NO2?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 04 mol",
+                    "text": "0,04 mol",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 06 mol",
+                    "text": "0,06 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 02 mol",
+                    "text": "0,02 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 03 mol",
+                    "text": "0,03 mol",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q508",
-            "text": "Oxid dusičitý se slučuje s vodou za vzniku kyseliny dusičné a oxi- du dusnatého. Reakci popisuje rovnice 3 NO2 + H2O → 2 HNO3 + NO. Jaké látkové množství NO může vzniknout z 0 12 mol NO2 ?",
+            "text": "Oxid dusičitý se slučuje s vodou za vzniku kyseliny dusičné a oxi- du dusnatého. Reakci popisuje rovnice 3 NO2 + H2O → 2 HNO3 + NO. Jaké látkové množství NO může vzniknout z 0,12 mol NO2 ?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 12 mol",
+                    "text": "0,12 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 04 mol",
+                    "text": "0,04 mol",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 03 mol",
+                    "text": "0,03 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 01 mol",
+                    "text": "0,01 mol",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q509",
-            "text": "Reakce vodíku s kyslíkem probíhá podle rovnice 2 H2 + O2 → 2 H2O. Kolik gramů vody vznikne reakcí 1 5 molu vodíku s kyslíkem? Ar(H) = 1 Ar(O) = 16",
+            "text": "Reakce vodíku s kyslíkem probíhá podle rovnice 2 H2 + O2 → 2 H2O. Kolik gramů vody vznikne reakcí 1,5 molu vodíku s kyslíkem? Ar(H) = 1, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
@@ -11713,7 +11711,7 @@
         },
         {
             "id": "q510",
-            "text": "Reakce vodíku s kyslíkem probíhá podle rovnice 2 H2 + O2 → 2 H2O. Kolik gramů vody vznikne reakcí 0 5 molu vodíku s kyslíkem? Ar(H) = 1 Ar(O) = 16",
+            "text": "Reakce vodíku s kyslíkem probíhá podle rovnice 2 H2 + O2 → 2 H2O. Kolik gramů vody vznikne reakcí 0,5 molu vodíku s kyslíkem? Ar(H) = 1, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
@@ -11729,7 +11727,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 5 g",
+                    "text": "0,5 g",
                     "isCorrect": false
                 }
             ]
@@ -11805,15 +11803,15 @@
         },
         {
             "id": "q514",
-            "text": "Kolik gramů chloridu sodného je třeba pro přípravu 1 5 kg fyziologického roztoku ve kterém je hmotnostní zlomek w(NaCl) = 0 009? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Kolik gramů chloridu sodného je třeba pro přípravu 1,5 kg fyziologického roztoku, ve kterém je hmotnostní zlomek w(NaCl) = 0,009? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
-                    "text": "13 5 g",
+                    "text": "13,5 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "1 35 g",
+                    "text": "1,35 g",
                     "isCorrect": false
                 },
                 {
@@ -11821,14 +11819,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 9 g",
+                    "text": "0,9 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q515",
-            "text": "Kolik gramů chloridu sodného je třeba pro přípravu 0 5 kg fyziologického roztoku ve kterém je 0 9 % NaCl? Ar(Na) = 23 Ar(Cl) = 35",
+            "text": "Kolik gramů chloridu sodného je třeba pro přípravu 0,5 kg fyziologického roztoku, ve kterém je 0,9 % NaCl? Ar(Na) = 23, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -11836,30 +11834,30 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "29 2 g",
+                    "text": "29,2 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "4 5 g",
+                    "text": "4,5 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "1 35 g",
+                    "text": "1,35 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q516",
-            "text": "Jakou hmotnost má chlorid sodný potřebný pro přípravu 250 g fyziologického roztoku?",
+            "text": "Jakou hmotnost má chlorid sodný, potřebný pro přípravu 250 g fyziologického roztoku?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 9 g",
+                    "text": "0,9 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "14 6 g",
+                    "text": "14,6 g",
                     "isCorrect": false
                 },
                 {
@@ -11867,7 +11865,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "2 25 g",
+                    "text": "2,25 g",
                     "isCorrect": true
                 }
             ]
@@ -11878,19 +11876,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 35 g",
+                    "text": "1,35 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 09 g",
+                    "text": "0,09 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 135 g",
+                    "text": "0,135 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 9 g",
+                    "text": "0,9 g",
                     "isCorrect": false
                 }
             ]
@@ -11901,26 +11899,26 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 35 g",
+                    "text": "1,35 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 92 g",
+                    "text": "2,92 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 45 g",
+                    "text": "0,45 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 9 g",
+                    "text": "0,9 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q519",
-            "text": "Kolik gramů hydroxidu sodného je třeba pro přípravu 350 gramů roztoku s hmotnostním zlomkem w(NaOH) = 0 08?",
+            "text": "Kolik gramů hydroxidu sodného je třeba pro přípravu 350 gramů roztoku s hmotnostním zlomkem w(NaOH) = 0,08?",
             "isMulti": true,
             "options": [
                 {
@@ -11943,11 +11941,11 @@
         },
         {
             "id": "q520",
-            "text": "Kolik gramů chloridu draselného je třeba pro přípravu 250 gramů roztoku s hmotnostním zlomkem w(KCl) = 0 05?",
+            "text": "Kolik gramů chloridu draselného je třeba pro přípravu 250 gramů roztoku s hmotnostním zlomkem w(KCl) = 0,05?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 2 g",
+                    "text": "1,2 g",
                     "isCorrect": false
                 },
                 {
@@ -11959,18 +11957,18 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "12 5 g",
+                    "text": "12,5 g",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q521",
-            "text": "Kolik gramů dusičnanu sodného je třeba pro přípravu 1500 gramů roztoku s hmotnostním zlomkem w(NaNO3) = 0 15?",
+            "text": "Kolik gramů dusičnanu sodného je třeba pro přípravu 1500 gramů roztoku s hmotnostním zlomkem w(NaNO3) = 0,15?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "37 5 g",
+                    "text": "37,5 g",
                     "isCorrect": false
                 },
                 {
@@ -11982,14 +11980,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "22 5 g",
+                    "text": "22,5 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q522",
-            "text": "Kolik gramů chloridu vápenatého je třeba chceme-li připravit 300 gramů roztoku s hmotnostním zlomkem w(CaCl2) = 0 25? Ar(Ca) = 40 Ar(Cl) = 35",
+            "text": "Kolik gramů chloridu vápenatého je třeba, chceme-li připravit 300 gramů roztoku s hmotnostním zlomkem w(CaCl2) = 0,25? Ar(Ca) = 40, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -12012,11 +12010,11 @@
         },
         {
             "id": "q523",
-            "text": "Kolik gramů jodidu draselného je obsaženo v 0 750 kg roztoku s hmotnostním zlomkem w(KI) = 0 04?",
+            "text": "Kolik gramů jodidu draselného je obsaženo v 0,750 kg roztoku s hmotnostním zlomkem w(KI) = 0,04?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 48 kg",
+                    "text": "0,48 kg",
                     "isCorrect": false
                 },
                 {
@@ -12035,7 +12033,7 @@
         },
         {
             "id": "q524",
-            "text": "Jakou hmotnost má chlorid vápenatý potřebný pro přípravu 3 kilogramů roztoku s hmotnostním zlomkem w(CaCl2) = 0 025? Ar(Ca) = 40 Ar(Cl) = 35",
+            "text": "Jakou hmotnost má chlorid vápenatý, potřebný pro přípravu 3 kilogramů roztoku s hmotnostním zlomkem w(CaCl2) = 0,025? Ar(Ca) = 40, Ar(Cl) = 35",
             "isMulti": true,
             "options": [
                 {
@@ -12058,15 +12056,15 @@
         },
         {
             "id": "q525",
-            "text": "K výplachům očí se někdy užívá tzv. «borová voda» což je 3% roztok kyseliny borité. Kolik gramů kyseliny borité je třeba pro přípravu 0 5 kg „borové vody“?",
+            "text": "K výplachům očí se někdy užívá tzv. «borová voda», což je 3% roztok kyseliny borité. Kolik gramů kyseliny borité je třeba pro přípravu 0,5 kg „borové vody“?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 15 gramů",
+                    "text": "0,15 gramů",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 5 gramů",
+                    "text": "1,5 gramů",
                     "isCorrect": false
                 },
                 {
@@ -12081,46 +12079,46 @@
         },
         {
             "id": "q526",
-            "text": "Kolik gramů 5% roztoku bromidu vápenatého je třeba abychom jeho smísením s 19 gramy 28% roztoku bromidu vápenatého zís- kali roztok 21%?",
+            "text": "Kolik gramů 5% roztoku bromidu vápenatého je třeba, abychom jeho smísením s 19 gramy 28% roztoku bromidu vápenatého zís- kali roztok 21%?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "2 07 gramů",
+                    "text": "2,07 gramů",
                     "isCorrect": false
                 },
                 {
-                    "text": "8 31 gramů",
+                    "text": "8,31 gramů",
                     "isCorrect": true
                 },
                 {
-                    "text": "4 15 gramů",
+                    "text": "4,15 gramů",
                     "isCorrect": false
                 },
                 {
-                    "text": "16 62 gramů",
+                    "text": "16,62 gramů",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q527",
-            "text": "Kolik gramů 10% roztoku jodidu sodného je třeba abychom jeho smísením s 21 gramy 14% roztoku jodidu sodného získali roztok 11%?",
+            "text": "Kolik gramů 10% roztoku jodidu sodného je třeba, abychom jeho smísením s 21 gramy 14% roztoku jodidu sodného získali roztok 11%?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "57 0 g",
+                    "text": "57,0 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "63 0 g",
+                    "text": "63,0 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "10 0 g",
+                    "text": "10,0 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "8 3 g",
+                    "text": "8,3 g",
                     "isCorrect": false
                 }
             ]
@@ -12139,7 +12137,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 2 kg",
+                    "text": "0,2 kg",
                     "isCorrect": false
                 },
                 {
@@ -12150,11 +12148,11 @@
         },
         {
             "id": "q529",
-            "text": "Konzumní ocet je přibližně 8% roztok kyseliny octové. Smísíme-li 1000 gramů octa a 3500 gramů vody bude ve výsledném roztoku hmotnostní procentová koncentrace kyseliny octové:",
+            "text": "Konzumní ocet je přibližně 8% roztok kyseliny octové. Smísíme-li 1000 gramů octa a 3500 gramů vody, bude ve výsledném roztoku hmotnostní procentová koncentrace kyseliny octové:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 78 %",
+                    "text": "1,78 %",
                     "isCorrect": true
                 },
                 {
@@ -12162,34 +12160,34 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "3 54 %",
+                    "text": "3,54 %",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 28 %",
+                    "text": "2,28 %",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q530",
-            "text": "Smísíme-li 250 gramů kyseliny dusičné o hmotnostním zlomku w(HNO3) = 0 08 a 90 gramů vody jaký bude hmotnostní zlomek kyseliny dusičné ve výsledném roztoku vyjádřený v %?",
+            "text": "Smísíme-li 250 gramů kyseliny dusičné o hmotnostním zlomku w(HNO3) = 0,08 a 90 gramů vody, jaký bude hmotnostní zlomek kyseliny dusičné ve výsledném roztoku vyjádřený v %?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "6 45 %",
+                    "text": "6,45 %",
                     "isCorrect": false
                 },
                 {
-                    "text": "4 07 %",
+                    "text": "4,07 %",
                     "isCorrect": false
                 },
                 {
-                    "text": "5 88 %",
+                    "text": "5,88 %",
                     "isCorrect": true
                 },
                 {
-                    "text": "8 0 %",
+                    "text": "8,0 %",
                     "isCorrect": false
                 }
             ]
@@ -12200,53 +12198,53 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "9 0 %",
+                    "text": "9,0 %",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 225 %",
+                    "text": "0,225 %",
                     "isCorrect": false
                 },
                 {
-                    "text": "4 5 %",
+                    "text": "4,5 %",
                     "isCorrect": true
                 },
                 {
-                    "text": "12 6 %",
+                    "text": "12,6 %",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q532",
-            "text": "Přidáme-li ke 250 gramům kyseliny octové o w(CH3COOH) = 0 06 350 gramů vody jaký bude hmotnostní zlomek kyseliny octové ve výsledném roztoku?",
+            "text": "Přidáme-li ke 250 gramům kyseliny octové o w(CH3COOH) = 0,06 350 gramů vody, jaký bude hmotnostní zlomek kyseliny octové ve výsledném roztoku?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "w = 0 025",
+                    "text": "w = 0,025",
                     "isCorrect": true
                 },
                 {
-                    "text": "w = 0 05",
+                    "text": "w = 0,05",
                     "isCorrect": false
                 },
                 {
-                    "text": "w = 0 06",
+                    "text": "w = 0,06",
                     "isCorrect": false
                 },
                 {
-                    "text": "w = 0 03",
+                    "text": "w = 0,03",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q533",
-            "text": "Smísíme-li 150 gramů kyseliny mravenčí o w(HCOOH) = 0 06 a 350 gramů vody kolik hmotnostních procent kyseliny mravenčí bude obsahovat výsledný roztok?",
+            "text": "Smísíme-li 150 gramů kyseliny mravenčí o w(HCOOH) = 0,06 a 350 gramů vody, kolik hmotnostních procent kyseliny mravenčí bude obsahovat výsledný roztok?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 8 %",
+                    "text": "1,8 %",
                     "isCorrect": true
                 },
                 {
@@ -12254,7 +12252,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "2 5 %",
+                    "text": "2,5 %",
                     "isCorrect": false
                 },
                 {
@@ -12265,23 +12263,23 @@
         },
         {
             "id": "q534",
-            "text": "Smísíme-li 25 gramů 3% kyseliny sírové a 35 gramů vody jaký bude hmotnostní zlomek kyseliny sírové ve výsledném roztoku?",
+            "text": "Smísíme-li 25 gramů 3% kyseliny sírové a 35 gramů vody, jaký bude hmotnostní zlomek kyseliny sírové ve výsledném roztoku?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "w = 0 02",
+                    "text": "w = 0,02",
                     "isCorrect": false
                 },
                 {
-                    "text": "w = 0 025",
+                    "text": "w = 0,025",
                     "isCorrect": false
                 },
                 {
-                    "text": "w = 0 0233",
+                    "text": "w = 0,0233",
                     "isCorrect": false
                 },
                 {
-                    "text": "w = 0 0125 15 gramů kyseliny chlorovodíkové o hmotnostní procentové koncentraci 3% smísíme s 30 gramy vody. Kolikaprocentní bude",
+                    "text": "w = 0,0125 15 gramů kyseliny chlorovodíkové o hmotnostní procentové koncentraci 3% smísíme s 30 gramy vody. Kolikaprocentní bude",
                     "isCorrect": true
                 }
             ]
@@ -12296,7 +12294,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 1 %",
+                    "text": "0,1 %",
                     "isCorrect": false
                 },
                 {
@@ -12304,99 +12302,99 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "4 5 %",
+                    "text": "4,5 %",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q536",
-            "text": "Zastoupení uhlíku v oxidu uhličitém vyjádřené hmotnostním zlomkem uhlíku činí: Ar(C) = 12 Ar (O) = 16",
+            "text": "Zastoupení uhlíku v oxidu uhličitém, vyjádřené hmotnostním zlomkem uhlíku činí: Ar(C) = 12, Ar (O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "w(C) = 0 727",
+                    "text": "w(C) = 0,727",
                     "isCorrect": false
                 },
                 {
-                    "text": "w(C) = 0 12",
+                    "text": "w(C) = 0,12",
                     "isCorrect": false
                 },
                 {
-                    "text": "w(C) = 0 428",
+                    "text": "w(C) = 0,428",
                     "isCorrect": false
                 },
                 {
-                    "text": "w(C) = 0 273",
+                    "text": "w(C) = 0,273",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q537",
-            "text": "Zastoupení síry v oxidu siřičitém vyjádřené hmotnostním zlomkem síry činí: Ar(S) = 32 Ar(O) = 16",
+            "text": "Zastoupení síry v oxidu siřičitém, vyjádřené hmotnostním zlomkem síry činí: Ar(S) = 32, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "w(S) = 0 5",
+                    "text": "w(S) = 0,5",
                     "isCorrect": true
                 },
                 {
-                    "text": "w(S) = 0 42",
+                    "text": "w(S) = 0,42",
                     "isCorrect": false
                 },
                 {
-                    "text": "w(S) = 0 457",
+                    "text": "w(S) = 0,457",
                     "isCorrect": false
                 },
                 {
-                    "text": "w(S) = 0 67",
+                    "text": "w(S) = 0,67",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q538",
-            "text": "Vodný roztok peroxidu vodíku se používá jako bělicí a dezinfekční prostředek. Vypočítejte kolik gramů peroxidu vodíku je obsaženo v 15 gramech 3% roztoku:",
+            "text": "Vodný roztok peroxidu vodíku se používá jako bělicí a dezinfekční prostředek. Vypočítejte, kolik gramů peroxidu vodíku je obsaženo v 15 gramech 3% roztoku:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 45 g",
+                    "text": "0,45 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "5 0 g",
+                    "text": "5,0 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 2 g",
+                    "text": "0,2 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "3 0 g",
+                    "text": "3,0 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q539",
-            "text": "Vodný roztok peroxidu vodíku se používá jako bělicí a dezinfekční prostředek. Vypočítejte kolik gramů peroxidu vodíku je obsaženo v 5 gra- mech 3% roztoku:",
+            "text": "Vodný roztok peroxidu vodíku se používá jako bělicí a dezinfekční prostředek. Vypočítejte, kolik gramů peroxidu vodíku je obsaženo v 5 gra- mech 3% roztoku:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 15 g",
+                    "text": "0,15 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "1 66 g",
+                    "text": "1,66 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 5 g",
+                    "text": "1,5 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 60 g",
+                    "text": "0,60 g",
                     "isCorrect": false
                 }
             ]
@@ -12407,15 +12405,15 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 65 g",
+                    "text": "0,65 g",
                     "isCorrect": true
                 },
                 {
-                    "text": "6 5 g",
+                    "text": "6,5 g",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 065 g",
+                    "text": "0,065 g",
                     "isCorrect": false
                 },
                 {
@@ -12426,19 +12424,19 @@
         },
         {
             "id": "q541",
-            "text": "Kolik gramů cholesterolu obsahuje litr krve pacienta u kterého byla zjištěna koncentrace cholesterolu 325 mg/dl?",
+            "text": "Kolik gramů cholesterolu obsahuje litr krve pacienta, u kterého byla zjištěna koncentrace cholesterolu 325 mg/dl?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "3 25 g dm–3",
+                    "text": "3,25 g dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "32 5 g dm–3",
+                    "text": "32,5 g dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 325 g dm–3",
+                    "text": "0,325 g dm–3",
                     "isCorrect": false
                 },
                 {
@@ -12449,7 +12447,7 @@
         },
         {
             "id": "q542",
-            "text": "Jaký objem vody potřebujeme k přípravě 0 45 dm3 roztoku ky- seliny octové má-li být ve výsledném roztoku objemový zlomek kyseliny octové 30 %?",
+            "text": "Jaký objem vody potřebujeme k přípravě 0,45 dm3 roztoku ky- seliny octové, má-li být ve výsledném roztoku objemový zlomek kyseliny octové 30 %?",
             "isMulti": true,
             "options": [
                 {
@@ -12472,7 +12470,7 @@
         },
         {
             "id": "q543",
-            "text": "Jaký objem vody je třeba k přípravě 0 200 dm3 roztoku kyseliny octové má-li být objemový zlomek kyseliny octové v tomto rozto- ku roven 0 05?",
+            "text": "Jaký objem vody je třeba k přípravě 0,200 dm3 roztoku kyseliny octové, má-li být objemový zlomek kyseliny octové v tomto rozto- ku roven 0,05?",
             "isMulti": true,
             "options": [
                 {
@@ -12495,7 +12493,7 @@
         },
         {
             "id": "q544",
-            "text": "Jaký je objem vody který potřebujeme k přípravě roztoku kyseli- ny octové o objemu 500 cm3 má-li být objemový zlomek kyseliny v tomto roztoku roven 0 4?",
+            "text": "Jaký je objem vody, který potřebujeme k přípravě roztoku kyseli- ny octové o objemu 500 cm3, má-li být objemový zlomek kyseliny v tomto roztoku roven 0,4?",
             "isMulti": true,
             "options": [
                 {
@@ -12518,7 +12516,7 @@
         },
         {
             "id": "q545",
-            "text": "Jaký je objem vody který potřebujeme k přípravě 1000 ml rozto- ku kyseliny octové má-li být výsledný objemový zlomek kyseliny octové 40 %?",
+            "text": "Jaký je objem vody, který potřebujeme k přípravě 1000 ml rozto- ku kyseliny octové, má-li být výsledný objemový zlomek kyseliny octové 40 %?",
             "isMulti": true,
             "options": [
                 {
@@ -12541,7 +12539,7 @@
         },
         {
             "id": "q546",
-            "text": "Jaký objem vody je třeba pro přípravu 250 ml roztoku kyseliny octové má-li být ve výsledném roztoku objemový zlomek kyseliny octové 35 %?",
+            "text": "Jaký objem vody je třeba pro přípravu 250 ml roztoku kyseliny octové, má-li být ve výsledném roztoku objemový zlomek kyseliny octové 35 %?",
             "isMulti": true,
             "options": [
                 {
@@ -12549,22 +12547,22 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "160 5 ml",
+                    "text": "160,5 ml",
                     "isCorrect": false
                 },
                 {
-                    "text": "150 5 ml",
+                    "text": "150,5 ml",
                     "isCorrect": false
                 },
                 {
-                    "text": "162 5 ml",
+                    "text": "162,5 ml",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q547",
-            "text": "Jaký je objem kyseliny octové který potřebujeme k přípravě roz- toku o objemu 0 200 dm3 má-li být objemový zlomek kyseliny octové ve výsledném roztoku roven 0 1?",
+            "text": "Jaký je objem kyseliny octové, který potřebujeme k přípravě roz- toku o objemu 0,200 dm3, má-li být objemový zlomek kyseliny octové ve výsledném roztoku roven 0,1?",
             "isMulti": true,
             "options": [
                 {
@@ -12587,7 +12585,7 @@
         },
         {
             "id": "q548",
-            "text": "Jaký objem kyseliny octové je třeba pro přípravu roztoku o obje- mu 0 45 dm3 má-li být výsledný objemový zlomek kyseliny octové 30 %?",
+            "text": "Jaký objem kyseliny octové je třeba pro přípravu roztoku o obje- mu 0,45 dm3, má-li být výsledný objemový zlomek kyseliny octové 30 %?",
             "isMulti": true,
             "options": [
                 {
@@ -12610,11 +12608,11 @@
         },
         {
             "id": "q549",
-            "text": "Jaký je objem kyseliny sírové o hmotnosti 115 gramů a hustotě 1 05 g cm–3?",
+            "text": "Jaký je objem kyseliny sírové o hmotnosti 115 gramů a hustotě 1,05 g cm–3?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "109 5 cm3",
+                    "text": "109,5 cm3",
                     "isCorrect": true
                 },
                 {
@@ -12626,37 +12624,37 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 06 cm3",
+                    "text": "1,06 cm3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q550",
-            "text": "Jaký je objem kyseliny sírové o hmotnosti 10 5 gramů a hustotě 1 03 g cm–3?",
+            "text": "Jaký je objem kyseliny sírové o hmotnosti 10,5 gramů a hustotě 1,03 g cm–3?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 03 cm3",
+                    "text": "1,03 cm3",
                     "isCorrect": false
                 },
                 {
-                    "text": "10 81 cm3",
+                    "text": "10,81 cm3",
                     "isCorrect": false
                 },
                 {
-                    "text": "10 5 cm3",
+                    "text": "10,5 cm3",
                     "isCorrect": false
                 },
                 {
-                    "text": "10 2 cm3",
+                    "text": "10,2 cm3",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q551",
-            "text": "4 Molární objem plynu Jaké množství oxidu uhelnatého zaujímá za normálních podmí- nek objem 140 dm3? Ar(C) = 12",
+            "text": "4 Molární objem plynu Jaké množství oxidu uhelnatého zaujímá, za normálních podmí- nek, objem 140 dm3? Ar(C) = 12",
             "isMulti": true,
             "options": [
                 {
@@ -12679,15 +12677,15 @@
         },
         {
             "id": "q552",
-            "text": "Jaké množství oxidu uhelnatého zaujímá za normálních podmí- nek objem 10 dm3? Ar(C) = 12 Ar(O) = 16",
+            "text": "Jaké množství oxidu uhelnatého zaujímá, za normálních podmí- nek, objem 10 dm3? Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "12 5 gramů",
+                    "text": "12,5 gramů",
                     "isCorrect": true
                 },
                 {
-                    "text": "10 0 gramů",
+                    "text": "10,0 gramů",
                     "isCorrect": false
                 },
                 {
@@ -12695,14 +12693,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "19 6 gramů",
+                    "text": "19,6 gramů",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q553",
-            "text": "Jaký objem zaujímá za normálních podmínek 1 g oxidu uhelnatého? Ar(C) = 12 Ar(O) = 16",
+            "text": "Jaký objem zaujímá, za normálních podmínek, 1 g oxidu uhelnatého? Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
@@ -12710,22 +12708,22 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 5 mol",
+                    "text": "0,5 mol",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 51 dm3",
+                    "text": "0,51 dm3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 8 dm3",
+                    "text": "0,8 dm3",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q554",
-            "text": "Jaký objem zaujímá za normálních podmínek 140 g oxidu uhelnatého? Ar(C) = 12 Ar(O) = 16",
+            "text": "Jaký objem zaujímá, za normálních podmínek, 140 g oxidu uhelnatého? Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
@@ -12748,7 +12746,7 @@
         },
         {
             "id": "q555",
-            "text": "Jaký objem zaujímá za normálních podmínek 170 g sulfanu? Ar(S) = 32 Ar(H) = 1",
+            "text": "Jaký objem zaujímá, za normálních podmínek, 170 g sulfanu? Ar(S) = 32, Ar(H) = 1",
             "isMulti": true,
             "options": [
                 {
@@ -12771,11 +12769,11 @@
         },
         {
             "id": "q556",
-            "text": "Jaký objem zaujímá za normálních podmínek 1 g oxidu uhličitého? Ar(C) = 12 Ar(O) = 16",
+            "text": "Jaký objem zaujímá, za normálních podmínek, 1 g oxidu uhličitého? Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 027 mol",
+                    "text": "0,027 mol",
                     "isCorrect": false
                 },
                 {
@@ -12783,41 +12781,41 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 51 dm3",
+                    "text": "0,51 dm3",
                     "isCorrect": true
                 },
                 {
-                    "text": "0 8 dm3",
+                    "text": "0,8 dm3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q557",
-            "text": "Jaký objem zaujímá (za normálních podmínek) 88 g oxidu uhličitého: Ar(C) = 12 Ar(O) = 16",
+            "text": "Jaký objem zaujímá (za normálních podmínek) 88 g oxidu uhličitého: Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
-                    "text": "22 4 m3",
+                    "text": "22,4 m3",
                     "isCorrect": false
                 },
                 {
-                    "text": "89 6 dm3",
+                    "text": "89,6 dm3",
                     "isCorrect": false
                 },
                 {
-                    "text": "12 2 dm3",
+                    "text": "12,2 dm3",
                     "isCorrect": false
                 },
                 {
-                    "text": "44 8 dm3",
+                    "text": "44,8 dm3",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q558",
-            "text": "Jaké množství oxidu uhličitého zaujímá (za normálních podmí- nek) objem 100 dm3? Ar(C) = 12 Ar(O) = 16",
+            "text": "Jaké množství oxidu uhličitého zaujímá (za normálních podmí- nek) objem 100 dm3? Ar(C) = 12, Ar(O) = 16",
             "isMulti": true,
             "options": [
                 {
@@ -12833,18 +12831,18 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "17 5 gramů",
+                    "text": "17,5 gramů",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q559",
-            "text": "Jaké množství vodíku zaujímá (za normálních podmínek) objem 22 4 dm3?",
+            "text": "Jaké množství vodíku zaujímá (za normálních podmínek) objem 22,4 dm3?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 001 kg",
+                    "text": "0,001 kg",
                     "isCorrect": false
                 },
                 {
@@ -12852,22 +12850,22 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "0 01 kg",
+                    "text": "0,01 kg",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 2 g",
+                    "text": "0,2 g",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q560",
-            "text": "Kolik dm3 dusíku je teoreticky třeba na přípravu 56 dm3 amonia- ku probíhá-li reakce podle rovnice N2 + 3 H2 = 2 NH3 ? Ar(H) = 1 Ar(N) = 14",
+            "text": "Kolik dm3 dusíku je teoreticky třeba na přípravu 56 dm3 amonia- ku, probíhá-li reakce podle rovnice N2 + 3 H2 = 2 NH3 ? Ar(H) = 1, Ar(N) = 14",
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 25 mol N2",
+                    "text": "1,25 mol N2",
                     "isCorrect": false
                 },
                 {
@@ -12879,14 +12877,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 56 dm3 N2",
+                    "text": "0,56 dm3 N2",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q561",
-            "text": "Kolik dm3 vodíku je teoreticky třeba na přípravu 56 dm3 amonia- ku probíhá-li reakce podle rovnice N2 + 3 H2 = 2 NH3 ? Ar(H) = 1 Ar(N) = 14",
+            "text": "Kolik dm3 vodíku je teoreticky třeba na přípravu 56 dm3 amonia- ku, probíhá-li reakce podle rovnice N2 + 3 H2 = 2 NH3 ? Ar(H) = 1, Ar(N) = 14",
             "isMulti": true,
             "options": [
                 {
@@ -12902,14 +12900,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "2 5 mol H2",
+                    "text": "2,5 mol H2",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q562",
-            "text": "5 pH kyselin a zásad Jaké je pH roztoku ve kterém je látková koncentrace c(OH–) = 10–2 mol dm–3:",
+            "text": "5 pH kyselin a zásad Jaké je pH roztoku, ve kterém je látková koncentrace c(OH–) = 10–2 mol dm–3:",
             "isMulti": true,
             "options": [
                 {
@@ -12932,7 +12930,7 @@
         },
         {
             "id": "q563",
-            "text": "Jaké je pH roztoku ve kterém je látková koncentrace c(OH–) = 10–5 mol dm–3:",
+            "text": "Jaké je pH roztoku, ve kterém je látková koncentrace c(OH–) = 10–5 mol dm–3:",
             "isMulti": true,
             "options": [
                 {
@@ -12955,7 +12953,7 @@
         },
         {
             "id": "q564",
-            "text": "Jaké je pH roztoku ve kterém je látková koncentrace c(H3O+) = 10–2 mol dm–3:",
+            "text": "Jaké je pH roztoku, ve kterém je látková koncentrace c(H3O+) = 10–2 mol dm–3:",
             "isMulti": true,
             "options": [
                 {
@@ -12978,11 +12976,11 @@
         },
         {
             "id": "q565",
-            "text": "Jaká je látková koncentrace c(H3O+) v roztoku kde c(OH–) = 10–10 mol dm–3:",
+            "text": "Jaká je látková koncentrace c(H3O+) v roztoku, kde c(OH–) = 10–10 mol dm–3:",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 0004 mol dm–3",
+                    "text": "0,0004 mol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -12994,14 +12992,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 0001 mol dm–3",
+                    "text": "0,0001 mol dm–3",
                     "isCorrect": true
                 }
             ]
         },
         {
             "id": "q566",
-            "text": "Jaká je látková koncentrace c(H3O+) v roztoku kde c(OH–) = 10–5 mol dm–3:",
+            "text": "Jaká je látková koncentrace c(H3O+) v roztoku, kde c(OH–) = 10–5 mol dm–3:",
             "isMulti": true,
             "options": [
                 {
@@ -13013,34 +13011,34 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 00005 mol dm–3",
+                    "text": "0,00005 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 5 mol dm–3",
+                    "text": "0,5 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q567",
-            "text": "Je-li koncentrace hydroxidových iontů ve vodném roztoku silné báze c(OH–) = 1 · 10–8 mol dm–3 jaká je reakce tohoto roztoku a jeho pH?",
+            "text": "Je-li koncentrace hydroxidových iontů ve vodném roztoku silné báze c(OH–) = 1 · 10–8 mol dm–3, jaká je reakce tohoto roztoku a jeho pH?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "pH = 6 0; roztok je kyselý",
+                    "text": "pH = 6,0; roztok je kyselý",
                     "isCorrect": true
                 },
                 {
-                    "text": "pH = 6 0; roztok je zásaditý",
+                    "text": "pH = 6,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 8 0; roztok je zásaditý",
+                    "text": "pH = 8,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 8 0; roztok je kyselý",
+                    "text": "pH = 8,0; roztok je kyselý",
                     "isCorrect": false
                 }
             ]
@@ -13051,42 +13049,42 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "pH = 9 0; roztok je zásaditý",
+                    "text": "pH = 9,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 5 0; roztok je kyselý",
+                    "text": "pH = 5,0; roztok je kyselý",
                     "isCorrect": true
                 },
                 {
-                    "text": "pH = 5 0; roztok je zásaditý",
+                    "text": "pH = 5,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 9 0; roztok je kyselý",
+                    "text": "pH = 9,0; roztok je kyselý",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q569",
-            "text": "Je-li koncentrace hydroxidových iontů ve vodném roztoku silné báze c(OH–) = 1 · 10–11 mol dm–3 jaká je reakce tohoto roztoku a jeho pH?",
+            "text": "Je-li koncentrace hydroxidových iontů ve vodném roztoku silné báze c(OH–) = 1 · 10–11 mol dm–3, jaká je reakce tohoto roztoku a jeho pH?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "pH = 11 0; roztok je kyselý",
+                    "text": "pH = 11,0; roztok je kyselý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 11 0; roztok je zásaditý",
+                    "text": "pH = 11,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 3 0; roztok je zásaditý",
+                    "text": "pH = 3,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 3 0; roztok je kyselý",
+                    "text": "pH = 3,0; roztok je kyselý",
                     "isCorrect": true
                 }
             ]
@@ -13097,26 +13095,26 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "pH = 12 0; roztok je zásaditý",
+                    "text": "pH = 12,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 2 0; roztok je zásaditý",
+                    "text": "pH = 2,0; roztok je zásaditý",
                     "isCorrect": false
                 },
                 {
-                    "text": "pH = 2 0; roztok je kyselý",
+                    "text": "pH = 2,0; roztok je kyselý",
                     "isCorrect": true
                 },
                 {
-                    "text": "pH = 12 0; roztok je kyselý",
+                    "text": "pH = 12,0; roztok je kyselý",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q571",
-            "text": "Jestliže je v roztoku HNO3 látková koncentrace c(H3O+) = 0 01 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je v roztoku HNO3 látková koncentrace c(H3O+) = 0,01 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13139,7 +13137,7 @@
         },
         {
             "id": "q572",
-            "text": "Jestliže je ve vodném roztoku HNO3 látková koncentrace c(H3O+) = 0 001 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku HNO3 látková koncentrace c(H3O+) = 0,001 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13162,7 +13160,7 @@
         },
         {
             "id": "q573",
-            "text": "Jestliže je v roztoku HNO3 látková koncentrace c(H3O+) = 0 0001 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je v roztoku HNO3 látková koncentrace c(H3O+) = 0,0001 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13185,7 +13183,7 @@
         },
         {
             "id": "q574",
-            "text": "Jestliže je ve vodném roztoku HBr látková koncentrace c(H3O+) = 0 001 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku HBr látková koncentrace c(H3O+) = 0,001 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13208,7 +13206,7 @@
         },
         {
             "id": "q575",
-            "text": "Jestliže je ve vodném roztoku HBr látková koncentrace c(H3O+) = 0 0001 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku HBr látková koncentrace c(H3O+) = 0,0001 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13231,7 +13229,7 @@
         },
         {
             "id": "q576",
-            "text": "Jestliže je ve vodném roztoku HCl látková koncentrace c(H3O+) = 0 01 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku HCl látková koncentrace c(H3O+) = 0,01 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13254,7 +13252,7 @@
         },
         {
             "id": "q577",
-            "text": "Jestliže je ve vodném roztoku HCl látková koncentrace c(H3O+) = 0 1 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku HCl látková koncentrace c(H3O+) = 0,1 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13277,7 +13275,7 @@
         },
         {
             "id": "q578",
-            "text": "Jestliže je ve vodném roztoku HCl látková koncentrace c(H3O+) = 0 00001 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku HCl látková koncentrace c(H3O+) = 0,00001 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13300,7 +13298,7 @@
         },
         {
             "id": "q579",
-            "text": "Jaké je pH roztoku HNO3 který obsahuje HNO3 o koncentraci 1 · 10–4 mol dm–3?",
+            "text": "Jaké je pH roztoku HNO3, který obsahuje HNO3 o koncentraci 1 · 10–4 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13323,7 +13321,7 @@
         },
         {
             "id": "q580",
-            "text": "Jaká je přibližná hodnota pH roztoku HNO3 ve kterém je látková koncentrace kyseliny dusičné rovna 1 mol dm–3?",
+            "text": "Jaká je přibližná hodnota pH roztoku HNO3, ve kterém je látková koncentrace kyseliny dusičné rovna 1 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13346,7 +13344,7 @@
         },
         {
             "id": "q581",
-            "text": "Jaké je pH roztoku HCl o hmotnosti 150 g který obsahuje HCl o koncentraci 0 0001 mol dm–3 ?",
+            "text": "Jaké je pH roztoku HCl o hmotnosti 150 g, který obsahuje HCl o koncentraci 0,0001 mol dm–3 ?",
             "isMulti": true,
             "options": [
                 {
@@ -13369,7 +13367,7 @@
         },
         {
             "id": "q582",
-            "text": "Jaké je pH roztoku HCl ve kterém je látková koncentrace HCl 0 01 mol dm–3?",
+            "text": "Jaké je pH roztoku HCl, ve kterém je látková koncentrace HCl 0,01 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13392,15 +13390,15 @@
         },
         {
             "id": "q583",
-            "text": "Jaká je látková koncentrace kyseliny sírové v roztoku jehož pH je 1?",
+            "text": "Jaká je látková koncentrace kyseliny sírové v roztoku, jehož pH je 1?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 1 mol dm–3",
+                    "text": "0,1 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "0 05 mol dm–3",
+                    "text": "0,05 mol dm–3",
                     "isCorrect": true
                 },
                 {
@@ -13408,14 +13406,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 5 mol dm–3",
+                    "text": "0,5 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q584",
-            "text": "Jaká je látková koncentrace kyseliny sírové v roztoku jehož pH je 2?",
+            "text": "Jaká je látková koncentrace kyseliny sírové v roztoku, jehož pH je 2?",
             "isMulti": true,
             "options": [
                 {
@@ -13438,7 +13436,7 @@
         },
         {
             "id": "q585",
-            "text": "Jaké je pH roztoku kyseliny sírové je-li látková koncentrace kyse- liny sírové vtomto roztoku 0 005 mol dm–3?",
+            "text": "Jaké je pH roztoku kyseliny sírové, je-li látková koncentrace kyse- liny sírové vtomto roztoku 0,005 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13461,7 +13459,7 @@
         },
         {
             "id": "q586",
-            "text": "Jaké je pH vodného roztoku kyseliny sírové je-li látková koncent- race kyseliny sírové 0 0005 mol dm–3?",
+            "text": "Jaké je pH vodného roztoku kyseliny sírové, je-li látková koncent- race kyseliny sírové 0,0005 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13469,7 +13467,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "3 3",
+                    "text": "3,3",
                     "isCorrect": false
                 },
                 {
@@ -13488,7 +13486,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 01 mol dm–3",
+                    "text": "0,01 mol dm–3",
                     "isCorrect": true
                 },
                 {
@@ -13496,7 +13494,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 02 mol dm–3",
+                    "text": "0,02 mol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -13507,7 +13505,7 @@
         },
         {
             "id": "q588",
-            "text": "Jaká je koncentrace c(H3O+) ve vodném roztoku HBr o látko- vé koncentraci c(HBr) = 0 001 mol dm–3?",
+            "text": "Jaká je koncentrace c(H3O+) ve vodném roztoku HBr o látko- vé koncentraci c(HBr) = 0,001 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13534,7 +13532,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 0001 mol dm–3",
+                    "text": "0,0001 mol dm–3",
                     "isCorrect": false
                 },
                 {
@@ -13599,7 +13597,7 @@
         },
         {
             "id": "q592",
-            "text": "Jaká je koncentrace c(OH–) ve vodném roztoku HCl který obsahuje v 1 litru látkové množství 0 001 mol HCl?",
+            "text": "Jaká je koncentrace c(OH–) ve vodném roztoku HCl který obsahuje v 1 litru látkové množství 0,001 mol HCl?",
             "isMulti": true,
             "options": [
                 {
@@ -13622,7 +13620,7 @@
         },
         {
             "id": "q593",
-            "text": "Jaká je látková koncentrace c(OH–) ve vodném roztoku HBr který obsahuje v 1 dm3 látkové množství 0 001 mol HBr?",
+            "text": "Jaká je látková koncentrace c(OH–) ve vodném roztoku HBr který obsahuje v 1 dm3 látkové množství 0,001 mol HBr?",
             "isMulti": true,
             "options": [
                 {
@@ -13645,7 +13643,7 @@
         },
         {
             "id": "q594",
-            "text": "Je-li v roztoku HCl látková koncentrace c(Cl–) = 0 0001 mol dm–3 je pH tohoto roztoku rovno:",
+            "text": "Je-li v roztoku HCl látková koncentrace c(Cl–) = 0,0001 mol dm–3 je pH tohoto roztoku rovno:",
             "isMulti": true,
             "options": [
                 {
@@ -13668,7 +13666,7 @@
         },
         {
             "id": "q595",
-            "text": "Je-li v roztoku HBr látková koncentrace c(Br–) = 0 001 mol dm–3 je hodnota pH tohoto roztoku rovna:",
+            "text": "Je-li v roztoku HBr látková koncentrace c(Br–) = 0,001 mol dm–3 je hodnota pH tohoto roztoku rovna:",
             "isMulti": true,
             "options": [
                 {
@@ -13684,14 +13682,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 001",
+                    "text": "0,001",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q596",
-            "text": "Jaká je koncentrace c(H3O+) ve vodném roztoku KOH obsahuje-li jeden litr roztoku látkové množství 0 01 mol KOH?",
+            "text": "Jaká je koncentrace c(H3O+) ve vodném roztoku KOH obsahuje-li jeden litr roztoku látkové množství 0,01 mol KOH?",
             "isMulti": true,
             "options": [
                 {
@@ -13714,7 +13712,7 @@
         },
         {
             "id": "q597",
-            "text": "Jestliže je ve vodném roztoku KOH látková koncentrace c(OH–) = 0 001 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku KOH látková koncentrace c(OH–) = 0,001 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13737,7 +13735,7 @@
         },
         {
             "id": "q598",
-            "text": "Jestliže je ve vodném roztoku NaOH látková koncentrace c(OH–) = 0 0001 mol dm–3 lze o tomto roztoku říci že:",
+            "text": "Jestliže je ve vodném roztoku NaOH látková koncentrace c(OH–) = 0,0001 mol dm–3, lze o tomto roztoku říci, že:",
             "isMulti": true,
             "options": [
                 {
@@ -13760,7 +13758,7 @@
         },
         {
             "id": "q599",
-            "text": "Jaké je pH roztoku KOH v němž je koncentrace c(KOH) = 10–2 mol dm–3?",
+            "text": "Jaké je pH roztoku KOH, v němž je koncentrace c(KOH) = 10–2 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13783,7 +13781,7 @@
         },
         {
             "id": "q600",
-            "text": "Je-li látková koncentrace roztoku hydroxidu sodného c(NaOH) = 1 mol dm–3 je přibližná hodnota pH takového roztoku:",
+            "text": "Je-li látková koncentrace roztoku hydroxidu sodného c(NaOH) = 1 mol dm–3, je přibližná hodnota pH takového roztoku:",
             "isMulti": true,
             "options": [
                 {
@@ -13806,7 +13804,7 @@
         },
         {
             "id": "q601",
-            "text": "Je-li látková koncentrace roztoku c(NaOH) = 0 0001 mol dm–3 je hodnota pH tohoto roztoku rovna:",
+            "text": "Je-li látková koncentrace roztoku c(NaOH) = 0,0001 mol dm–3 je hodnota pH tohoto roztoku rovna:",
             "isMulti": true,
             "options": [
                 {
@@ -13829,7 +13827,7 @@
         },
         {
             "id": "q602",
-            "text": "Jaké je pH roztoku KOH o hmotnosti 100 g ve kterém je látková koncentrace c(KOH) rovna 10–4 mol dm–3?",
+            "text": "Jaké je pH roztoku KOH o hmotnosti 100 g, ve kterém je látková koncentrace c(KOH) rovna 10–4 mol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -13875,7 +13873,7 @@
         },
         {
             "id": "q604",
-            "text": "Je-li v roztoku NaOH látková koncentrace c(Na+) = 0 1 mol dm–3 můžeme o tomto roztoku tvrdit že:",
+            "text": "Je-li v roztoku NaOH látková koncentrace c(Na+) = 0,1 mol dm–3 můžeme o tomto roztoku tvrdit že:",
             "isMulti": true,
             "options": [
                 {
@@ -13914,18 +13912,18 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "0 1 mol dm–3",
+                    "text": "0,1 mol dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q606",
-            "text": "Jaká je látková koncentrace hydroxidu sodného v roztoku jehož pH je 10?",
+            "text": "Jaká je látková koncentrace hydroxidu sodného v roztoku, jehož pH je 10?",
             "isMulti": true,
             "options": [
                 {
-                    "text": "0 0001 mol dm–3",
+                    "text": "0,0001 mol dm–3",
                     "isCorrect": true
                 },
                 {
@@ -13933,11 +13931,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "0 001 mol dm–3",
+                    "text": "0,001 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "10–10 mol dm–3 100 ml roztoku kyseliny dusičné o látkové koncentraci c(HNO3) = 0 001 mol dm–3 smísíme s 900 ml vody. Jaké bude pH",
+                    "text": "10–10 mol dm–3 100 ml roztoku kyseliny dusičné o látkové koncentraci c(HNO3) = 0,001 mol dm–3 smísíme s 900 ml vody. Jaké bude pH",
                     "isCorrect": true
                 }
             ]
@@ -14006,7 +14004,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "10–4 mol dm–3 10 ml roztoku hydroxidu sodného o látkové koncentraci c(NaOH) = 0 1 mol dm–3 smísíme s 90 ml vody.",
+                    "text": "10–4 mol dm–3 10 ml roztoku hydroxidu sodného o látkové koncentraci c(NaOH) = 0,1 mol dm–3 smísíme s 90 ml vody.",
                     "isCorrect": true
                 }
             ]
@@ -14059,7 +14057,7 @@
         },
         {
             "id": "q612",
-            "text": "1 Reakce organických sloučenin a organická činidla Jak se nazývá typ reakce alkenů a alkynů jehož hlavním rysem je přeměna dvojných nebo trojných vazeb ve vazby jednoduché?",
+            "text": "1 Reakce organických sloučenin a organická činidla Jak se nazývá typ reakce alkenů a alkynů, jehož hlavním rysem je přeměna dvojných nebo trojných vazeb ve vazby jednoduché?",
             "isMulti": true,
             "options": [
                 {
@@ -14082,7 +14080,7 @@
         },
         {
             "id": "q613",
-            "text": "Jak se nazývá změna jedné sloučeniny v jinou pouhým přesku- pením atomů uvnitř molekul aniž se při tom změní její sumární vzorec?",
+            "text": "Jak se nazývá změna jedné sloučeniny v jinou pouhým přesku- pením atomů uvnitř molekul, aniž se při tom změní její sumární vzorec?",
             "isMulti": true,
             "options": [
                 {
@@ -14128,7 +14126,7 @@
         },
         {
             "id": "q615",
-            "text": "Substituce je typ reakce při které:",
+            "text": "Substituce je typ reakce, při které:",
             "isMulti": true,
             "options": [
                 {
@@ -14144,14 +14142,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "dojde k přeskupení atomů uvnitř sloučeniny aniž se změní souhrn- ný vzorec",
+                    "text": "dojde k přeskupení atomů uvnitř sloučeniny, aniž se změní souhrn- ný vzorec",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q616",
-            "text": "Eliminace je typ reakce při které dochází:",
+            "text": "Eliminace je typ reakce, při které dochází:",
             "isMulti": true,
             "options": [
                 {
@@ -14221,7 +14219,7 @@
         },
         {
             "id": "q619",
-            "text": "Hoření je reakce která má charakter:",
+            "text": "Hoření je reakce, která má charakter:",
             "isMulti": true,
             "options": [
                 {
@@ -14267,7 +14265,7 @@
         },
         {
             "id": "q621",
-            "text": "Aminoskupina obsahuje nevazebný elektronový pár který uděluje aminům vlastnosti:",
+            "text": "Aminoskupina obsahuje nevazebný elektronový pár, který uděluje aminům vlastnosti:",
             "isMulti": true,
             "options": [
                 {
@@ -14524,26 +14522,26 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "atomární chlor H·",
+                    "text": "atomární chlor, H·",
                     "isCorrect": true
                 },
                 {
-                    "text": "OH– I–",
+                    "text": "OH–, I–",
                     "isCorrect": false
                 },
                 {
-                    "text": "NO2 + H3O+",
+                    "text": "NO2 +, H3O+",
                     "isCorrect": false
                 },
                 {
-                    "text": "Br+ H+",
+                    "text": "Br+, H+",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q633",
-            "text": "2 Izomerie konformace konfigurace Izomery které se liší polohou jednoho vodíkového atomu polohou dvojné vazby a tím jaké atomy tato dvojná vazba spojuje jsou:",
+            "text": "2 Izomerie, konformace, konfigurace Izomery, které se liší polohou jednoho vodíkového atomu, polohou dvojné vazby a tím, jaké atomy tato dvojná vazba spojuje, jsou:",
             "isMulti": true,
             "options": [
                 {
@@ -15107,7 +15105,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "mají stejný sumární vzorec ale různou konstituci",
+                    "text": "mají stejný sumární vzorec, ale různou konstituci",
                     "isCorrect": true
                 },
                 {
@@ -15400,7 +15398,7 @@
         },
         {
             "id": "q670",
-            "text": "Vznik 1 2-dichlorethanu reakcí chloru a ethenu je příkladem:",
+            "text": "Vznik 1,2-dichlorethanu reakcí chloru a ethenu je příkladem:",
             "isMulti": true,
             "options": [
                 {
@@ -15479,15 +15477,15 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "2-methyl-buta-1 2-dien",
+                    "text": "2-methyl-buta-1,2-dien",
                     "isCorrect": false
                 },
                 {
-                    "text": "2-methyl-buta-1 3-dien",
+                    "text": "2-methyl-buta-1,3-dien",
                     "isCorrect": true
                 },
                 {
-                    "text": "penta-1 3-dien",
+                    "text": "penta-1,3-dien",
                     "isCorrect": false
                 }
             ]
@@ -15498,11 +15496,11 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 1 1-trimethyl-3 3-diethylpropan",
+                    "text": "1,1,1-trimethyl-3,3-diethylpropan",
                     "isCorrect": false
                 },
                 {
-                    "text": "4-ethyl-2 2 3 3-tetramethylhexan",
+                    "text": "4-ethyl-2,2,3,3-tetramethylhexan",
                     "isCorrect": true
                 },
                 {
@@ -15510,7 +15508,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "2 2 3 3-tetramethyl-4 4-diethylbutan",
+                    "text": "2,2,3,3-tetramethyl-4,4-diethylbutan",
                     "isCorrect": false
                 }
             ],
@@ -15661,7 +15659,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "2-chlor-buta-1 3-dien",
+                    "text": "2-chlor-buta-1,3-dien",
                     "isCorrect": false
                 },
                 {
@@ -15795,7 +15793,7 @@
         },
         {
             "id": "q687",
-            "text": "Organokovové sloučeniny jsou sloučeniny v nichž je",
+            "text": "Organokovové sloučeniny jsou sloučeniny, v nichž je",
             "isMulti": true,
             "options": [
                 {
@@ -15979,7 +15977,7 @@
         },
         {
             "id": "q695",
-            "text": "Ethylen reaguje s bromem za tvorby 1 2-dibromethanu. Tato reak- ce je reakcí:",
+            "text": "Ethylen reaguje s bromem za tvorby 1,2-dibromethanu. Tato reak- ce je reakcí:",
             "isMulti": true,
             "options": [
                 {
@@ -16029,7 +16027,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 2-dibromethan",
+                    "text": "1,2-dibromethan",
                     "isCorrect": true
                 },
                 {
@@ -16144,19 +16142,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "3-methyl-1 3-butan",
+                    "text": "3-methyl-1,3-butan",
                     "isCorrect": false
                 },
                 {
-                    "text": "2-methyl-buta-1 3-dien",
+                    "text": "2-methyl-buta-1,3-dien",
                     "isCorrect": true
                 },
                 {
-                    "text": "2-methyl-but-1 3-ylen",
+                    "text": "2-methyl-but-1,3-ylen",
                     "isCorrect": false
                 },
                 {
-                    "text": "3-methyl-buta-1 3-dien",
+                    "text": "3-methyl-buta-1,3-dien",
                     "isCorrect": false
                 }
             ],
@@ -16172,11 +16170,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 2-dibrompropan",
+                    "text": "1,2-dibrompropan",
                     "isCorrect": true
                 },
                 {
-                    "text": "1 3-dibrompropan",
+                    "text": "1,3-dibrompropan",
                     "isCorrect": false
                 },
                 {
@@ -16394,7 +16392,7 @@
         },
         {
             "id": "q713",
-            "text": "4 Aromatické uhlovodíky jejich reakce a deriváty Benzyl má vzorec:",
+            "text": "4 Aromatické uhlovodíky, jejich reakce a deriváty Benzyl má vzorec:",
             "isMulti": true,
             "options": [
                 {
@@ -16479,7 +16477,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 4-dimethylbenzenu",
+                    "text": "1,4-dimethylbenzenu",
                     "isCorrect": false
                 }
             ]
@@ -16544,7 +16542,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "je chemicky cyklohexa-1 3 5-trien",
+                    "text": "je chemicky cyklohexa-1,3,5-trien",
                     "isCorrect": true
                 },
                 {
@@ -16555,7 +16553,7 @@
         },
         {
             "id": "q720",
-            "text": "Substituenty na benzenovém jádře v poloze 1 3 označujeme jako:",
+            "text": "Substituenty na benzenovém jádře v poloze 1,3 označujeme jako:",
             "isMulti": true,
             "options": [
                 {
@@ -16682,7 +16680,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "2 4 6-trinitrotoluen",
+                    "text": "2,4,6-trinitrotoluen",
                     "isCorrect": true
                 },
                 {
@@ -16697,11 +16695,11 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 2-dimethylbenzen",
+                    "text": "1,2-dimethylbenzen",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 4-dimethylbenzen",
+                    "text": "1,4-dimethylbenzen",
                     "isCorrect": true
                 },
                 {
@@ -16720,7 +16718,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 4-dimethylbenzen",
+                    "text": "1,4-dimethylbenzen",
                     "isCorrect": false
                 },
                 {
@@ -16728,7 +16726,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 2-dimethylbenzen",
+                    "text": "1,2-dimethylbenzen",
                     "isCorrect": true
                 },
                 {
@@ -17127,11 +17125,11 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "1 2-dimethylbenzen",
+                    "text": "1,2-dimethylbenzen",
                     "isCorrect": false
                 },
                 {
-                    "text": "1 3-dimethylbenzen",
+                    "text": "1,3-dimethylbenzen",
                     "isCorrect": true
                 }
             ],
@@ -17151,11 +17149,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1 2-dimethylbenzen",
+                    "text": "1,2-dimethylbenzen",
                     "isCorrect": true
                 },
                 {
-                    "text": "1 3-dimethylbenzen",
+                    "text": "1,3-dimethylbenzen",
                     "isCorrect": false
                 }
             ],
@@ -17376,19 +17374,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "ano záleží na počtu −OH",
+                    "text": "ano, záleží na počtu −OH",
                     "isCorrect": false
                 },
                 {
-                    "text": "ne v žádném případě",
+                    "text": "ne, v žádném případě",
                     "isCorrect": true
                 },
                 {
-                    "text": "ano záleží na poloze −OH",
+                    "text": "ano, záleží na poloze −OH",
                     "isCorrect": false
                 },
                 {
-                    "text": "ano pokud je dvojsytný",
+                    "text": "ano, pokud je dvojsytný",
                     "isCorrect": false
                 }
             ]
@@ -17399,19 +17397,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "ano záleží na počtu −OH",
+                    "text": "ano, záleží na počtu −OH",
                     "isCorrect": false
                 },
                 {
-                    "text": "ne v žádném případě",
+                    "text": "ne, v žádném případě",
                     "isCorrect": true
                 },
                 {
-                    "text": "ano pokud je trojsytný",
+                    "text": "ano, pokud je trojsytný",
                     "isCorrect": false
                 },
                 {
-                    "text": "ano záleží na poloze −OH",
+                    "text": "ano, záleží na poloze −OH",
                     "isCorrect": false
                 }
             ]
@@ -18111,7 +18109,7 @@
         },
         {
             "id": "q787",
-            "text": "1 4-dihydroxybenzen je:",
+            "text": "1,4-dihydroxybenzen je:",
             "isMulti": true,
             "options": [
                 {
@@ -18138,7 +18136,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 3-dinitrobenzen",
+                    "text": "1,3-dinitrobenzen",
                     "isCorrect": false
                 },
                 {
@@ -18207,19 +18205,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 4-benzochinon",
+                    "text": "1,4-benzochinon",
                     "isCorrect": false
                 },
                 {
-                    "text": "benzen-1 4-diol",
+                    "text": "benzen-1,4-diol",
                     "isCorrect": false
                 },
                 {
-                    "text": "benzen-1 2-diol",
+                    "text": "benzen-1,2-diol",
                     "isCorrect": false
                 },
                 {
-                    "text": "benzen-1 3-diol",
+                    "text": "benzen-1,3-diol",
                     "isCorrect": true
                 }
             ]
@@ -18465,7 +18463,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "benzen-1 2-diol",
+                    "text": "benzen-1,2-diol",
                     "isCorrect": true
                 },
                 {
@@ -18521,7 +18519,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "benzen-1 3-diol",
+                    "text": "benzen-1,3-diol",
                     "isCorrect": true
                 }
             ],
@@ -18533,7 +18531,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "1 3-dihydroxybenzen",
+                    "text": "1,3-dihydroxybenzen",
                     "isCorrect": false
                 },
                 {
@@ -18541,7 +18539,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "benzen-1 4-diol",
+                    "text": "benzen-1,4-diol",
                     "isCorrect": true
                 },
                 {
@@ -18764,19 +18762,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "vody v níž oba atomy vodíku jsou nahrazeny uhlovodíkovými zbytky",
+                    "text": "vody, v níž oba atomy vodíku jsou nahrazeny uhlovodíkovými zbytky",
                     "isCorrect": true
                 },
                 {
-                    "text": "peroxidu vodíku v němž oba atomy vodíku jsou nahrazeny uhlovo- díkovými zbytky",
+                    "text": "peroxidu vodíku, v němž oba atomy vodíku jsou nahrazeny uhlovo- díkovými zbytky",
                     "isCorrect": false
                 },
                 {
-                    "text": "kyseliny uhličité v níž jsou oba atomy vodíku nahrazeny uhlovodí- kovými zbytky",
+                    "text": "kyseliny uhličité, v níž jsou oba atomy vodíku nahrazeny uhlovodí- kovými zbytky",
                     "isCorrect": false
                 },
                 {
-                    "text": "ketonů v nichž jsou uhlovodíkové zbytky vázány na skupinu C=O",
+                    "text": "ketonů, v nichž jsou uhlovodíkové zbytky vázány na skupinu C=O",
                     "isCorrect": false
                 }
             ]
@@ -18806,7 +18804,7 @@
         },
         {
             "id": "q817",
-            "text": "10 Karboxylové kyseliny jejich reakce a deriváty Mezi dikarboxylové kyseliny patří:",
+            "text": "10 Karboxylové kyseliny, jejich reakce a deriváty Mezi dikarboxylové kyseliny patří:",
             "isMulti": true,
             "options": [
                 {
@@ -18925,19 +18923,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "jde-li o karboxylovou kyselinu neutralizace.",
+                    "text": "jde-li o karboxylovou kyselinu, neutralizace.",
                     "isCorrect": false
                 },
                 {
-                    "text": "jde-li o anorganickou kyselinu esterifikace.",
+                    "text": "jde-li o anorganickou kyselinu, esterifikace.",
                     "isCorrect": true
                 },
                 {
-                    "text": "jde-li o mastnou kyselinu zmýdelnění.",
+                    "text": "jde-li o mastnou kyselinu, zmýdelnění.",
                     "isCorrect": false
                 },
                 {
-                    "text": "jde-li o karboxylovou kyselinu esterifikace.",
+                    "text": "jde-li o karboxylovou kyselinu, esterifikace.",
                     "isCorrect": true
                 }
             ]
@@ -18948,19 +18946,19 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "jde-li o anorganickou kyselinu hydrolýza.",
+                    "text": "jde-li o anorganickou kyselinu, hydrolýza.",
                     "isCorrect": false
                 },
                 {
-                    "text": "jde-li o mastnou kyselinu zmýdelnění.",
+                    "text": "jde-li o mastnou kyselinu, zmýdelnění.",
                     "isCorrect": false
                 },
                 {
-                    "text": "jde-li o anorganickou kyselinu neutralizace.",
+                    "text": "jde-li o anorganickou kyselinu, neutralizace.",
                     "isCorrect": false
                 },
                 {
-                    "text": "jde-li o karboxylovou kyselinu esterifikace.",
+                    "text": "jde-li o karboxylovou kyselinu, esterifikace.",
                     "isCorrect": true
                 }
             ]
@@ -19950,7 +19948,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "kyselina benzen-1 4-dikarboxylová",
+                    "text": "kyselina benzen-1,4-dikarboxylová",
                     "isCorrect": true
                 },
                 {
@@ -19962,7 +19960,7 @@
         },
         {
             "id": "q867",
-            "text": "11 Aminy amidy alkaloidy Strukturu primárního aminu lze vyjádřit jako (R je uhlovodíkový zbytek):",
+            "text": "11 Aminy, amidy, alkaloidy Strukturu primárního aminu lze vyjádřit jako (R je uhlovodíkový zbytek):",
             "isMulti": true,
             "options": [
                 {
@@ -20008,7 +20006,7 @@
         },
         {
             "id": "q869",
-            "text": "Strukturu terciárního aminu lze vyjádřit jako (R je uhlovodíkový dcf57212-80af-4cfd-bfa8-5b34b849 zbytek):",
+            "text": "Strukturu terciárního aminu lze vyjádřit jako (R je uhlovodíkový , dcf57212-80af-4cfd-bfa8-5b34b849 zbytek):",
             "isMulti": true,
             "options": [
                 {
@@ -20062,22 +20060,22 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "benzen-1 2-diamin",
+                    "text": "benzen-1,2-diamin",
                     "isCorrect": false
                 },
                 {
-                    "text": "benzen-1 4-diamin",
+                    "text": "benzen-1,4-diamin",
                     "isCorrect": true
                 },
                 {
-                    "text": "benzen-1 3-diamin",
+                    "text": "benzen-1,3-diamin",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q872",
-            "text": "Benzen-1 4-diamin je:",
+            "text": "Benzen-1,4-diamin je:",
             "isMulti": true,
             "options": [
                 {
@@ -20123,7 +20121,7 @@
         },
         {
             "id": "q874",
-            "text": "O anilinu platí že je:",
+            "text": "O anilinu platí, že je:",
             "isMulti": true,
             "options": [
                 {
@@ -20255,7 +20253,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "benzen-1 4-diamin",
+                    "text": "benzen-1,4-diamin",
                     "isCorrect": true
                 }
             ],
@@ -21490,7 +21488,7 @@
         },
         {
             "id": "q933",
-            "text": "2 Monosacharidy disacharidy polysacharidy Mezi ketosy řadíme:",
+            "text": "2 Monosacharidy, disacharidy, polysacharidy Mezi ketosy řadíme:",
             "isMulti": true,
             "options": [
                 {
@@ -21525,11 +21523,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "značí že sloučenina otáčí rovinu polarizovaného světla pouze doprava",
+                    "text": "značí, že sloučenina otáčí rovinu polarizovaného světla pouze doprava",
                     "isCorrect": false
                 },
                 {
-                    "text": "značí že sloučenina otáčí rovinu polarizovaného světla pouze doleva",
+                    "text": "značí, že sloučenina otáčí rovinu polarizovaného světla pouze doleva",
                     "isCorrect": false
                 }
             ]
@@ -21540,7 +21538,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "značí že sacharid otáčí rovinu polarizovaného světla pouze doprava",
+                    "text": "značí, že sacharid otáčí rovinu polarizovaného světla pouze doprava",
                     "isCorrect": false
                 },
                 {
@@ -21548,7 +21546,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "značí že sacharid otáčí rovinu polarizovaného světla pouze doleva",
+                    "text": "značí, že sacharid otáčí rovinu polarizovaného světla pouze doleva",
                     "isCorrect": false
                 },
                 {
@@ -21559,7 +21557,7 @@
         },
         {
             "id": "q936",
-            "text": "O racemické směsi cukrů ve vodném roztoku platí že:",
+            "text": "O racemické směsi cukrů ve vodném roztoku platí, že:",
             "isMulti": true,
             "options": [
                 {
@@ -21586,26 +21584,26 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "3 3 – 5 6 µmol dm–3",
+                    "text": "3,3 – 5,6 µmol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "3 3 – 5 6 mmol dm–3",
+                    "text": "3,3 – 5,6 mmol dm–3",
                     "isCorrect": true
                 },
                 {
-                    "text": "3 3 – 5 6 mol dm–3",
+                    "text": "3,3 – 5,6 mol dm–3",
                     "isCorrect": false
                 },
                 {
-                    "text": "3 3 – 5 6 mg dm–3",
+                    "text": "3,3 – 5,6 mg dm–3",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q938",
-            "text": "Který z následujících cukrů se běžně v krvi člověka vyskytuje v koncentraci vyšší než 3 0 mmol dm–3?",
+            "text": "Který z následujících cukrů se běžně v krvi člověka vyskytuje v koncentraci vyšší než 3,0 mmol dm–3?",
             "isMulti": true,
             "options": [
                 {
@@ -21720,7 +21718,7 @@
         },
         {
             "id": "q943",
-            "text": "Laktosa je disacharid který se skládá:",
+            "text": "Laktosa je disacharid, který se skládá:",
             "isMulti": true,
             "options": [
                 {
@@ -21743,7 +21741,7 @@
         },
         {
             "id": "q944",
-            "text": "Maltosa je disacharid tvořený dvěma molekulami glukosy. Glykosidová vazba kterou jsou tyto podjednotky spojené se označuje jako:",
+            "text": "Maltosa je disacharid tvořený dvěma molekulami glukosy. Glykosidová vazba, kterou jsou tyto podjednotky spojené se označuje jako:",
             "isMulti": true,
             "options": [
                 {
@@ -21789,7 +21787,7 @@
         },
         {
             "id": "q946",
-            "text": "Sacharosa je disacharid který se skládá:",
+            "text": "Sacharosa je disacharid, který se skládá:",
             "isMulti": true,
             "options": [
                 {
@@ -21812,7 +21810,7 @@
         },
         {
             "id": "q947",
-            "text": "Pod názvem cukr kupujeme v obchodech obvykle:",
+            "text": "Pod názvem cukr, kupujeme v obchodech obvykle:",
             "isMulti": true,
             "options": [
                 {
@@ -22211,7 +22209,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "tím že obsahuje aminokyseliny",
+                    "text": "tím, že obsahuje aminokyseliny",
                     "isCorrect": false
                 },
                 {
@@ -23273,7 +23271,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "základem koenzymu oxidoreduktas např. NAD+",
+                    "text": "základem koenzymu oxidoreduktas, např. NAD+",
                     "isCorrect": false
                 },
                 {
@@ -23729,15 +23727,15 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "hodnota pH při které se aminokyselina nepohybuje v elektrickém poli",
+                    "text": "hodnota pH, při které se aminokyselina nepohybuje v elektrickém poli",
                     "isCorrect": true
                 },
                 {
-                    "text": "hodnota pH při které aminokyselina existuje jako kationt",
+                    "text": "hodnota pH, při které aminokyselina existuje jako kationt",
                     "isCorrect": false
                 },
                 {
-                    "text": "hodnota pH při které aminokyselina existuje jako aniont",
+                    "text": "hodnota pH, při které aminokyselina existuje jako aniont",
                     "isCorrect": false
                 }
             ]
@@ -23756,11 +23754,11 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "značí že aminokyselina otáčí rovinu polarizovaného světla pouze doprava",
+                    "text": "značí, že aminokyselina otáčí rovinu polarizovaného světla pouze doprava",
                     "isCorrect": false
                 },
                 {
-                    "text": "značí že aminokyselina otáčí rovinu polarizovaného světla pouze doleva",
+                    "text": "značí, že aminokyselina otáčí rovinu polarizovaného světla pouze doleva",
                     "isCorrect": false
                 }
             ]
@@ -23894,7 +23892,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "nevznikají jsou dodávány potravou",
+                    "text": "nevznikají, jsou dodávány potravou",
                     "isCorrect": true
                 },
                 {
@@ -23997,7 +23995,7 @@
         },
         {
             "id": "q1042",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule navíc –OH skupinu patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule navíc –OH skupinu, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24020,7 +24018,7 @@
         },
         {
             "id": "q1043",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule –SH skupinu patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule –SH skupinu patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24043,7 +24041,7 @@
         },
         {
             "id": "q1044",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule benzenové jádro patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule benzenové jádro, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24066,7 +24064,7 @@
         },
         {
             "id": "q1045",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule benzenové jádro patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule benzenové jádro, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24089,7 +24087,7 @@
         },
         {
             "id": "q1046",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule síru patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule síru, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24112,7 +24110,7 @@
         },
         {
             "id": "q1047",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule síru patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule síru, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24135,7 +24133,7 @@
         },
         {
             "id": "q1048",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule heterocyklic- ký zbytek patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule heterocyklic- ký zbytek, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24158,7 +24156,7 @@
         },
         {
             "id": "q1049",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule heterocyklic- ký zbytek patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule heterocyklic- ký zbytek, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24181,7 +24179,7 @@
         },
         {
             "id": "q1050",
-            "text": "Mezi aminokyseliny které obsahují ve své molekule heterocyklic- ký zbytek patří:",
+            "text": "Mezi aminokyseliny, které obsahují ve své molekule heterocyklic- ký zbytek, patří:",
             "isMulti": true,
             "options": [
                 {
@@ -24954,7 +24952,7 @@
         },
         {
             "id": "q1083",
-            "text": "7 Bílkoviny peptidy Proteiny:",
+            "text": "7 Bílkoviny, peptidy Proteiny:",
             "isMulti": true,
             "options": [
                 {
@@ -25356,7 +25354,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "mají víceméně kompaktní kulovitý tvar",
+                    "text": "mají víceméně kompaktní, kulovitý tvar",
                     "isCorrect": true
                 },
                 {
@@ -25417,7 +25415,7 @@
         },
         {
             "id": "q1103",
-            "text": "Denaturace je proces při kterém se:",
+            "text": "Denaturace je proces, při kterém se:",
             "isMulti": true,
             "options": [
                 {
@@ -25824,7 +25822,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "hydrolytické štěpení substrátu dcf57212",
+                    "text": "hydrolytické štěpení substrátu , dcf57212",
                     "isCorrect": false
                 }
             ]
@@ -26222,7 +26220,7 @@
         },
         {
             "id": "q1138",
-            "text": "β-oxidace je reakce která je součástí metabolismu:",
+            "text": "β-oxidace je reakce, která je součástí metabolismu:",
             "isMulti": true,
             "options": [
                 {
@@ -26548,7 +26546,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "dusíkaté báze cukru a fosfátu",
+                    "text": "dusíkaté báze, cukru a fosfátu",
                     "isCorrect": true
                 },
                 {
@@ -26583,14 +26581,14 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "purinovou nebo pyrimidinovou bází sacharidem a kyselinou fosforečnou",
+                    "text": "purinovou nebo pyrimidinovou bází, sacharidem a kyselinou fosforečnou",
                     "isCorrect": false
                 }
             ]
         },
         {
             "id": "q1154",
-            "text": "Mezi monosacharidy které jsou součástí nukleových kyselin patří:",
+            "text": "Mezi monosacharidy, které jsou součástí nukleových kyselin patří:",
             "isMulti": true,
             "options": [
                 {
@@ -26686,7 +26684,7 @@
             "isMulti": true,
             "options": [
                 {
-                    "text": "z adeninu ribosy a kyseliny fosforečné",
+                    "text": "z adeninu, ribosy a kyseliny fosforečné",
                     "isCorrect": false
                 },
                 {
