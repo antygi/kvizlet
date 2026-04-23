@@ -1,0 +1,120 @@
+:root {
+    --primary: #2c3e50;
+    --secondary: #34495e;
+    --accent: #3498db;
+    --success: #2ecc71;
+    --danger: #e74c3c;
+    --bg: #f5f6fa;
+    --text: #2c3e50;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+header {
+    background-color: var(--primary);
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.2s;
+}
+
+button:hover { background-color: #2980b9; }
+button:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+
+#app {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+
+.quiz-list-item, .menu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.quiz-list-item:hover, .menu-item:hover { background-color: #ecf0f1; }
+
+.options-container { margin: 1.5rem 0; }
+
+.option-label {
+    display: block;
+    padding: 10px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.option-label:hover { background-color: #f7f9fa; }
+
+.feedback {
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.feedback.correct { background-color: #d5f5e3; color: #1d8348; border: 1px solid var(--success); }
+.feedback.wrong { background-color: #fadbd8; color: #943126; border: 1px solid var(--danger); }
+
+.controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.btn-success { background-color: var(--success); }
+.btn-success:hover { background-color: #27ae60; }
+.btn-save { background-color: #f39c12; }
+.btn-save:hover { background-color: #d68910; }
+
+.question-image-container {
+    width: 100%;
+    text-align: center;
+    margin: 1rem 0;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.question-image {
+    max-width: 100%;
+    max-height: 400px; /* Aby obrázek nezabral celou obrazovku na výšku */
+    height: auto;
+    border-radius: 4px;
+}
