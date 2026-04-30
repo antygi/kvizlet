@@ -10,7 +10,8 @@ if ('serviceWorker' in navigator) {
 // 1. ROZCESTNÍK KVÍZŮ
 const quizIndex = [
     { id: '2lf-bio', title: 'Modelovky 2LF Biologie', file: 'quizzes/biologie_2lf.json' },
-    { id: '2lf-che', title: 'Modelovky 2LF Chemie', file: 'quizzes/chemie_2lf.json' }
+    { id: '2lf-che', title: 'Modelovky 2LF Chemie', file: 'quizzes/chemie_2lf.json' },
+    { id: '2lf-fyz', title: 'Modelovky 2LF Fyzika', file: 'quizzes/fyzika_2lf.json' },  
     // Sem přidáš další kvízy
 ];
 
@@ -168,7 +169,7 @@ function renderQuestion() {
             <div class="options-container" id="options">
                 ${shuffledOptions.map(opt => `
                     <label class="option-label">
-                        <input type="${question.isMulti ? 'checkbox' : 'radio'}" name="answer" 
+                        <input type="checkbox" name="answer" 
                                value="${opt.text}" data-correct="${opt.isCorrect}" ${isAnswered ? 'disabled' : ''}>
                         ${opt.text}
                     </label>

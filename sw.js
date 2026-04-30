@@ -1,4 +1,4 @@
-const CACHE_NAME = 'quiz-pwa-cache-v1';
+const CACHE_NAME = 'quiz-pwa-cache-v2';
 const urlsToCache = [
   './',
   './index.html',
@@ -6,7 +6,8 @@ const urlsToCache = [
   './script.js',
   './manifest.json',
   './quizzes/biologie_2lf.json',
-  './quizzes/chemie_2lf.json'
+  './quizzes/chemie_2lf.json',
+  './quizzes/fyzika_2lf.json'
   // Zde necháváme jen základní soubory nutné pro start aplikace
 ];
 
